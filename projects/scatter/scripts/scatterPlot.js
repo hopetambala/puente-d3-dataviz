@@ -3,7 +3,7 @@
 d3.csv("data/puente.csv", function(data) {
     // Convert strings to numbers.
     // parse the date / time
-    var parseTime = d3.timeParse("%m/%d/%y");
+    var parseTime = d3.timeParse("%-m/%-d/%-y");
     data.forEach(function(d) {
         //if (error) throw error;
         //if(error){
@@ -83,14 +83,18 @@ d3.csv("data/puente.csv", function(data) {
     // Add the X Axis
     svgMain.append("g")
         .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(x))
-            //.tickFormat(d3.timeFormat("%y"))
-            //    .ticks(d3.timeYear.every(1)));
+        .call(d3.axisBottom(x)
+        .tickFormat(d3.timeFormat("%m/%d/%y")) //<== insert the tickFormat function
+        //.tickFormat(d3.timeFormat("%A %d %B %Y")) //<== insert the tickFormat function
+        )
+                //.ticks(d3.timeYear.every(1)));
 
 
     // Add the Y Axis
     svgMain.append("g")
-        .call(d3.axisLeft(y));
+        .call(d3.axisLeft(y)
+            //.ticks(1)
+        )
     
     /*
     // Scale the range of the data
