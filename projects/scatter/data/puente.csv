@@ -1,0 +1,770 @@
+firstName,lastName,dob,sex,educationLevel,occupation,communityName,latrineAccess,waterAccess,typeOfWaterDrank,clinicAccess,trashPickUpFrequency,trashLocation,conditionOfFloor,conditionOfRoof,organizationWhoOwnsData,dataCollector,latitude,longitude
+Celeste,Brioso sanchez ,3/19/71,Female,primary,Ama de casa,undefined,Y,everyday,bottled,Y,2,En la calle,cementWorking,poor,Puente,Cris,null,null
+Deyanira,Victoriano,4/8/90,Female,highschool,Ama de casa ,undefined,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Cris,null,null
+Maria ,Rodriguez ,3/14/39,Female,primary,Ama de casa ,undefined,Y,4-6AWeek,bottled,Y,2,En la sera ,cementWorking,working,Puente,Cris,null,null
+wompe,dewomp,12/16/81,Male,lessThanprimary,124599,Commons ,null,null,tap,null,,null,null,null,testORG,test,39.6144998,-86.1434961
+Maria ,Diran ,8/20/53,Female,lessThanprimary,Ama de casa ,undefined,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Gringostarr,18.91441565,-70.74564155
+aracelis ,hernandez,4/30/79,Female,college,maestra,barrio santiago apostol ,Y,2-3AWeek,tap,Y,3,Al camion de la basura,cementWorking,null,Puente,Nayezca.A,18.9104736,-70.747658
+Jose del carmen,Del carmen ,5/16/61,Male,lessThanprimary,Camarero,Barrio san pedro(lac caña),Y,2-3AWeek,bottled,Y,2,Calle ,cementWorking,working,Puente,Marioalfredo,18.9151634,-70.74162561
+Javier,Baez,9/30/50,Male,lessThanprimary,Colmadero,Barrio san pedro (caña),Y,Never,bottled,Y,,A la calle ,cementPoor,poor,Puente,Marioalfredo,18.91544743,-70.74173416
+luz mercedes,rosario ,11/4/55,Female,primary,Trabajafora social,santiago apostol,Y,4-6AWeek,bottled,Y,2,El vertedero ,cementPoor,working,Puente,Nayezca.A,18.9100311,-70.747806
+Alba aurora,Ferrera ,4/10/92,Female,primary,Ama de casa,La olla,Y,2-3AWeek,bottled,Y,1,Fuera,cementWorking,poor,Puente,D García,18.9052828,-70.750225
+Maribel,Duran,9/24/79,Female,lessThanprimary,Cosmetica,La Olla,Y,2-3AWeek,tap,N,1,Fuera de la casa,dirtPoor,poor,Puente,Esteff,18.9031869,-70.7482554
+Ramon ,Duran ,1/1/40,Male,lessThanprimary,Amo de casa ,undefined,Y,1AWeek,bottled,N,1,Mas abajo de la casa,cementPoor,poor,Puente,Gringostarr,18.91419571,-70.74628612
+Maria Teresa,Duran alcantara,5/22/83,Female,college,administradora,arroyo arriba,Y,2-3AWeek,bottled,Y,2,se saca el día q va el camión,cementWorking,working,Puente,candiany,18.9163858,-70.7431423
+Jesus Maris,Moronta Bonifacio,4/26/48,Male,lessThanprimary,Comerciante,Las Flores,Y,Never,bottled,Y,2,En la calle,dirtPoor,poor,Puente,Aurelis,18.9127534,-70.7451146
+Mariluz ,Rosado ,10/11/90,Female,college,Ninguna ,Chorro ,Y,Never,bottled,Y,,En la salida de la comunidad ,dirtWorking,working,Puente,Yefripeña,18.90133398,-70.75776329
+Jamileth,Sevallo,5/30/92,Female,college,Ama de casa,Barrio san pedro (la caña),Y,2-3AWeek,bottled,Y,3,Calle ,dirtWorking,working,Puente,Marioalfredo,18.91553657,-70.74186014
+Mercedes,García ,9/24/86,Female,highschool,Ama de casa,null,Y,everyday,bottled,Y,1,En frente de la casa ,cementPoor,working,Puente,D García,18.9063185,-70.7501045
+Neri,Ramirez,3/2/70,Female,primary,Ama de casa,El chorro,Y,1AWeek,tap,Y,1,null,cementPoor,working,Puente,Yefripeña,18.90553155,-70.74850498
+polinia ,espinal victoriano,10/26/80,Female,primary,ama de casa,barrio santiago apostol,Y,4-6AWeek,bottled,Y,2,Camion de la basura,cementWorking,working,Puente,Nayezca.A,18.9104841,-70.7476501
+Minerva rodriguez,Rodriguez,9/5/58,Female,highschool,Modista,Barrio san pedroa (la caña ),Y,1AWeek,bottled,Y,2,Calle ,dirtWorking,working,Puente,Marioalfredo,18.91565944,-70.74131262
+Angela,Rosado,10/31/88,Female,highschool,Recepcion en hoteleria,La Olla,Y,4-6AWeek,bottled,N,1,A fuera,cementPoor,working,Puente,Esteff,18.9052221,-70.7493424
+Dilian mercedes ,Taveras ,1/1/26,Female,lessThanprimary,Ama de casa,Barrio san pedro ( la caña ),Y,2-3AWeek,bottled,Y,2,Calle ,dirtPoor,working,Puente,Marioalfredo,18.91589225,-70.74179728
+YUDITH,Delgado,2/20/93,Female,highschool,Ama de casa,La olla,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,D García,18.9063254,-70.7499999
+Marina ,DiaZ,3/3/59,Female,primary,Ama de casa,El chorro,Y,4-6AWeek,tap,Y,1,La calle,cementPoor,poor,Puente,Kiaraabreu,18.90136041,-70.75742881
+Veatris,Ferrerav,5/5/54,Female,lessThanprimary,Ama de casa ,El chorro ,Y,2-3AWeek,bottled,Y,,Al frente ,dirtWorking,working,Puente,Yefripeña,18.90154868,-70.75813771
+Marcelina reyes ,Garcia ,1/16/97,Female,someHighSchool,Ama de casa ,Barrio san pedro (la caña ),Y,2-3AWeek,bottled,Y,2,Calle ,dirtWorking,working,Puente,Marioalfredo,18.91533266,-70.74057987
+Luz Maria ,Rosado Reyes ,10/11/91,Female,highschool,Ninguna ,El chorro,Y,1AMonth,bottled,Y,,Al la salida de la calle,dirtWorking,working,Puente,Yefripeña,18.90116366,-70.75772172
+Juliana,Reyes,8/21/48,Female,primary,Ama de casa,El Puente,Y,2-3AWeek,bottled,N,2,Al lado de su casa,cementPoor,poor,Puente,Esteff,18.9051864,-70.7505792
+Elupina,Suriel,12/7/93,null,highschool,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.90169222,-70.75826319
+Jorge cabral,Cabral ,3/1/79,Male,someHighSchool,Colmadero,Barrio  san pedro (La caña ,N,2-3AWeek,bottled,Y,2,Calle ,dirtWorking,working,Puente,Marioalfredo,18.91573585,-70.74194807
+Juana ,Rodriguez,8/23/66,Female,lessThanprimary,Ama de casa,Barrio san pedro (la caña),Y,2-3AWeek,bottled,Y,2,Calle ,dirtWorking,working,Puente,Marioalfredo,18.91552182,-70.7411378
+Fredy,Trinidad,2/10/73,Male,lessThanprimary,Trabaja agricultura ,La olla,Y,2-3AWeek,bottled,Y,1,Fuera,cementWorking,working,Puente,D García,18.9053839,-70.7503339
+Madelyn,Jimenez valdez,3/11/94,Female,highschool,Estudiante universitaria,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9474453,-70.6865514
+Carmen,Delgado,6/26/76,Female,lessThanprimary,Casa de familia,La Olla,Y,1AWeek,tap,Y,1,En el safacon,cementPoor,working,Puente,Esteff,18.9065896,-70.7511702
+Rosanna,Perez rosario,11/13/83,Female,lessThanprimary,Trabaja en casa de familia,Santa rosa,Y,2-3AWeek,bottled,Y,1,Fuera,cementWorking,poor,Puente,Rosa Elenny Duran Jimenez,18.9325487,-70.6799009
+Angelina ,Rodriguez ,8/15/00,Female,someHighSchool,Estudiante ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente de la calle ,cementPoor,working,Puente,Yefripeña,18.90428277,-70.75811944
+Sulina,Almonte canela ,11/21/63,Female,lessThanprimary,Ama de casa ,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.949007,-70.6862614
+Joan ,Suriel almonte,5/26/94,Male,highschool,Chef,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.949007,-70.6862614
+Vitelio,Duran, ,Male,lessThanprimary,Vendedor,El chorro,Y,2-3AWeek,tap,Y,,La carretera,cementWorking,working,Puente,Yefripeña,18.90413906,-70.75828398
+Rafaela,Mora,3/12/48,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,working,Puente,Rosa,18.9427293,-70.6784255
+Rafael ivan,Adames garcia , ,Male,primary,Agricultura,Santa rosa,Y,everyday,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9472111,-70.6812252
+Anival ,Garcia,1/4/55,Male,lessThanprimary,Ninguna,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9474453,-70.6865514
+Aura ,Contrera paez,5/20/56,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427328,-70.6784221
+Nelly ,Delgado,3/21/94,Female,college,Ama de casa,El chorro,Y,1AWeek,bottled,Y,1,La calle,dirtWorking,working,Puente,Yefripeña,18.9015817,-70.75860794
+Iliany,Grullon alcantara,12/23/93,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9043131,-70.7265433
+Antolina,Reyes calderon,9/19/77,Female,college,Ama de casa,Las flores,Y,everyday,bottled,Y,2,En la calle,dirtPoor,poor,Puente,Aurelis,18.91277955,-70.74444721
+Brigida,Diaz,8/15/66,Female,lessThanprimary,Agricultura,La Jolla,Y,everyday,tap,Y,1,En el frente,cementWorking,working,Puente,D García,18.9051864,-70.7505792
+Roberto pascual,Quezada Gil, ,Male,someHighSchool,Agricultura,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90457174,-70.75798281
+Juana ,Canela,5/9/63,Female,primary,Ama de casa,Las flore,Y,everyday,bottled,Y,2,En la calle,cementWorking,poor,Puente,Aurelis,18.9132721,-70.745604
+Francisco Antonio,Ramirez Hernandez,4/13/84,Male,someHighSchool,empleado privado,arroyo arriba ,Y,2-3AWeek,bottled,Y,2,frente a la casa,cementWorking,working,Puente,candiany,18.9163858,-70.7431423
+Anthonia,Reynoso, ,Female,primary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90335234,-70.7580989
+Pamela ,Cruz veloz,2/1/00,Female,someHighSchool,Ama de casa y estudiante ,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427898,-70.6783674
+Amalia,Cruz Diaz,8/8/45,Female,lessThanprimary,Ama de casa,San isidro,Y,2-3AWeek,tap,Y,1,Al frente,cementWorking,working,Puente,Y. Batista ,18.9165784,-70.7431051
+Riveli ,Reyes mora,1/12/87,Male,someHighSchool,Agricultura,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9474453,-70.6865514
+Carlos,Santos, ,Male,null,Sereno,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90493064,-70.74829916
+Tilin,Santos, ,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,Al lado,cementPoor,poor,Puente,Esteff,18.9051864,-70.7505792
+Abby ,Trinidad batista,2/19/01,Female,highschool,Empleada privada,Barrio la altagracia ,Y,everyday,bottled,Y,2,Afuers,dirtPoor,poor,Puente,Scoppa,18.91100641,-70.74721653
+Roverto,Perez garcia,5/4/69,Male,primary,Agricultura,Santa rosa,Y,Never,tap,Y,1,Fuera,cementPoor,poor,Puente,Rosa Elenny Duran Jimenez,18.9472111,-70.6812252
+Mabel ,Grullon duran,3/6/90,Female,highschool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9125036,-70.7217518
+Margarita,Garcia ,1/1/64,Female,lessThanprimary,Ama de casa,Santa rosa,Y,everyday,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Yilda carolina,Calderon j,9/28/96,Female,highschool,Ama de casa ,La jolla,Y,everyday,bottled,Y,1,En la calle o salen a sacarla ,cementPoor,working,Puente,D García,18.9051864,-70.7505792
+Altagracia ,De los santos ,1/1/18,Female,primary,Ninguna ,El chorro,Y,2-3AWeek,tap,Y,1,La carretera,cementPoor,working,Puente,Yefripeña,18.90266959,-70.75816646
+Maria Esther,Delgado,12/16/91,Female,highschool,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90266959,-70.75816646
+Rebeca,Brioso,5/7/00,Female,highschool,Ama de casa,San isidro,Y,2-3AWeek,bottled,Y,1,La pasan a buscar,cementPoor,working,Puente,Y. Batista ,18.9165784,-70.7431051
+Fatima,Santos Santa, ,Female,null,null,El chorro,Y,2-3AWeek,tap,Y,1,La carretera,dirtWorking,working,Puente,Yefripeña,18.90413906,-70.75828398
+Jose,Caraballo,4/5/55,Male,lessThanprimary,Ninguna,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9428056,-70.678333
+Yessenia ,Ferrera santo ,9/24/93,Female,someHighSchool,Ninguna ,El choro,Y,2-3AWeek,bottled,Y,,En la carretera ,cementPoor,working,Puente,Yefripeña,18.90266959,-70.75816646
+Uscarina,Garcia perez,5/3/84,Female,someHighSchool,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9490541,-70.6863052
+Nieves angelina,Pujols custodio,4/17/94,Female,someHighSchool,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9490565,-70.6863254
+Margarita,Duran, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementPoor,working,Puente,Yefripeña,18.90413906,-70.75828398
+Daury ,Duran,3/28/92,Male,primary,Agricultura,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9424279,-70.6784139
+Alba,Trinidad, ,Female,lessThanprimary,Ama de casa,Santa rosa,Y,Never,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Mercedes,Lebron,1/18/72,Female,lessThanprimary,Ama de casa,La Jolla,Y,1AMonth,tap,Y,1,En la entrada,cementWorking,working,Puente,Esteff,18.9051864,-70.7505792
+Raudi,Monte de oca,12/20/86,Male,primary,Negociante,La kenedid,Y,1AWeek,bottled,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9132885,-70.7229801
+Carmen ,Delgado,11/2/67,Female,lessThanprimary,Ama de casa ,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9490565,-70.6863254
+Lucinda,Magarin,3/5/53,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,bottled,Y,,En la calle,dirtWorking,working,Puente,Aurelis,18.91274112,-70.7444136
+Leovigildo,Delgado,10/6/25,Male,primary,null,Las flores,Y,everyday,tap,Y,2,En la calle,dirtWorking,poor,Puente,Aurelis,18.9127553,-70.7451582
+Rosmeri,Victoriano,4/30/00,Female,highschool,Estudiante,Las Flore,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.91254201,-70.74476862
+teresa ,Cabral Anazagatis ,5/31/65,Female,college,Duña de Casas ,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Nayezca.A,18.9042962,-70.7429273
+Dilsia,Geronimo, ,Female,lessThanprimary,null,La Jolla,Y,everyday,bottled,N,1,A fuera,cementWorking,working,Puente,Esteff,18.906027,-70.7508753
+Beibi ,Ramirez ,11/12/75,null,someHighSchool,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Nayezca.A,18.9043044,-70.7433506
+Leonela maria ,Quezada liranzo,12/4/96,Female,highschool,Ama de casa ,Santa rosa,Y,everyday,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9472111,-70.6812252
+ Delmerio,Sanchez, ,Male,someHighSchool,Comerciante,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90476804,-70.75798994
+Maribel,Suero santos,4/30/80,Female,primary,Trabaja en un restaurante ,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427727,-70.6783708
+Francisco,Peña, ,Male,college,Estudiante,El chorro,Y,4-6AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90166339,-70.75743883
+Juana,Bautista,11/17/93,Female,someHighSchool,Ama de casa,La Jolla,Y,everyday,bottled,N,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9051838,-70.7505807
+Jose manuel,Dilone,12/2/93,Male,highschool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,En la calle,cementWorking,working,18-01,Candiany,18.9136585,-70.722287
+Andi rafael,Batista canela,9/8/89,Male,highschool,Chofer,Las flores,Y,everyday,bottled,Y,2,Afuera,cementPoor,working,Puente,Rosa,18.9127549,-70.7478837
+Miguel,Ortiz pichardo,4/21/00,Male,someHighSchool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,Lacalle,cementWorking,working,18-01,Candiany,18.9125363,-70.7217459
+Desiderio,Reyes suriel,9/19/32,Male,lessThanprimary,Invalido,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,working,Puente,Rosa,18.9427293,-70.6784255
+Luis Miguel,Santos, ,Male,someHighSchool,Comerciante,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90476787,-70.75797167
+Julian ,Santos santos,7/3/80,Male,lessThanprimary,Agricultura,Las flores,Y,everyday,bottled,Y,2,Afuera,cementPoor,poor,Puente,Rosa,19.2964862,-70.2510637
+Josefina,Perez, ,Female,null,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle ,cementWorking,working,Puente,Yefripeña,18.90065584,-70.75738485
+Maria socorro,Ramirez monte de oca,4/4/79,Female,lessThanprimary,Jornalera,La kenedid,Y,2-3AWeek,tap,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9137154,-70.7222948
+Cirilo ,Garcia,2/6/97,Male,lessThanprimary,Agricultor,Santa rosa,Y,Never,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Cirila,Contreras hernandez,10/28/46,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9427293,-70.6784255
+Antonio javier,Duran jimenez,11/28/99,Male,highschool,Agricultura,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9325487,-70.6799009
+Rumaldo,Acosta, ,Male,lessThanprimary,Agricultura,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9428259,-70.6781452
+Aneyda,Delgado, ,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,N,1,Cerca del puente,cementWorking,working,Puente,Esteff,18.9051838,-70.7505807
+Lourdes,Pinales, ,Female,lessThanprimary,Ama de casa,Villa ortaliza,N,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9490541,-70.6863052
+Neo,Matias,7/25/90,Male,highschool,Estudiante,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.4938661,-69.9265588
+Yoni miguel ,de los santos ,11/10/98,Male,someHighSchool,Estudiante ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90566646,-70.75815473
+Angela ,De los santos,8/25/99,Female,someHighSchool,Ama de casa y estudiante,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.942464,-70.6787233
+Claudia,Ferrera, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90566784,-70.75823109
+Katherine,Duran delgado,10/21/98,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9139872,-70.7223413
+Jorge,Victoriano,6/6/99,Male,someCollege,Estudiante,La Jolla,Y,1AWeek,bottled,N,1,En la calle,cementPoor,working,Puente,Esteff,18.9063643,-70.7502968
+Garyvaldi ,Cabral Anazaguatis ,8/30/69,Male,someHighSchool,null,La Calle Primera ,Y,null,bottled,Y,1,En la cera ,null,working,Puente,Jduran,18.9008483,-70.7397066
+Clemente,Mendez Guzman, ,Male,lessThanprimary,Agricultura,El chorro,Y,2-3AWeek,tap,Y,1,2,cementWorking,working,Puente,Yefripeña,18.9053741,-70.75810494
+Maria,Peña,9/11/70,Female,null,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90136889,-70.75719701
+Yafreissi,Castillo,10/10/94,Female,highschool,Ama de casa,La kenedid,Y,1AWeek,bottled,Y,2,La calle,cementWorking,poor,18-01,Candiany,18.9135494,-70.7223536
+Maria ramona,Perez,11/19/78,Female,highschool,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.942775,-70.6784017
+Brijida ,Jimenez, ,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9474453,-70.6865514
+Marta,Suriel,9/26/65,Female,lessThanprimary,Tapicera,Las flores ,Y,everyday,tap,Y,2,En la calle,cementPoor,poor,Puente,Rosa,18.9127553,-70.7451582
+Leonicio,Ramirez,12/8/52,Male,lessThanprimary,Agricultor,La kenedid,Y,2-3AWeek,tap,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9132885,-70.7229801
+Rudy,Peña,10/3/81,Male,someHighSchool,Taxista,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9090811,-70.7475232
+Sara,Clemente,9/27/53,Female,primary,Ama de casa,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90526848,-70.75808759
+Natanael ,Fernadez ,12/12/82,Male,lessThanprimary,null,El canal bandonado ,Y,2-3AWeek,bottled,Y,,Al final de la calle ,cementWorking,working,Puente,Yefripeña,18.90922667,-70.76066787
+Sofia,Bueno,11/26/57,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,En la calle,cementWorking,working,Puente,Rosa,18.9490565,-70.6863254
+Martin ,genao duran ,4/16/46,Male,lessThanprimary,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9038608,-70.7428032
+Angela,Espinal,3/17/56,Female,lessThanprimary,Ama de casa,La Jolla,Y,2-3AWeek,bottled,Y,1,En la calle,cementWorking,working,Puente,Esteff,18.9061776,-70.7503585
+Henry,Mendez,12/17/70,Male,someHighSchool,Tapicero,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9091168,-70.7471404
+Libel ,Ciprian,6/14/98,Female,someHighSchool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132885,-70.7229801
+Rubi cristal,Sicart,3/9/99,Female,highschool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9125363,-70.7217459
+Maria,Leon,4/9/54,Female,lessThanprimary,Hecha dia,La Jolla,Y,everyday,tap,Y,1,En frente de la casa,cementPoor,working,Puente,Esteff,18.4938661,-69.9265588
+yohanna ,Cabral ,6/13/79,Female,college,null,La Calle primera ,Y,null,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Jessica,Alvarez,4/2/84,Female,someHighSchool,Banquera,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9051838,-70.7505807
+Jose,Dias,5/13/43,null,null,Agricultor,El chorro,Y,1AWeek,bottled,Y,,La calle,cementWorking,working,Puente,Yefripeña,18.90111261,-70.75703524
+Miguel ,De los santos ,5/9/89,Male,highschool,Estudiante ,El chorro,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90566646,-70.75815473
+Juan,Luciano, ,Male,lessThanprimary,Jornalero,La Jolla,Y,everyday,tap,N,1,Frente a la casa,cementWorking,working,Puente,Esteff,18.4938661,-69.9265588
+Francisco manuel,Mena dilone,8/22/84,Male,primary,null,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,poor,18-01,Candiany,18.9128277,-70.7215481
+Ana ,Santos ,4/9/93,Female,primary,Ama de casa ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,dirtWorking,working,Puente,Yefripeña,18.90066485,-70.75751502
+Gabriela,Victoriano,6/19/02,Female,highschool,Estudiante,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90457174,-70.75798281
+Claudio,Victoriano,8/12/34,Male,highschool,Agricultura,Las flores,Y,everyday,tap,Y,2,Afuera,cementPoor,poor,Puente,Rosa,18.9127549,-70.7478837
+Elena Antonia,Cabrera,10/29/74,Female,someHighSchool,Ama de casa,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9120906,-70.744425
+Ramon antonio ,Duran garcia ,4/10/66,Male,lessThanprimary,Auxiliar de policia escolar ,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Felicia ,Delgado,4/19/60,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,19.2223081,-70.5281722
+Camila,Peña,7/6/97,Female,someHighSchool,,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.4938661,-69.9265588
+Pedro antonio,Serrata,1/2/35,Male,primary,null,Las flores,Y,everyday,tap,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9127175,-70.7445492
+Ivan,de la rosa,8/12/79,Male,primary,agricultor,calle primera,Y,everyday,bottled,Y,1,En el saco,cementWorking,working,Puente,Nayezca.A,18.90418991,-70.74292607
+Angi ,Abreu ,4/12/86,Female,someHighSchool,null,La calle primera ,Y,null,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Carmen,Araujo, ,Female,null,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,null,Puente,Yefripeña,18.90392717,-70.75793428
+Yokaira,garcia,3/17/95,Female,college,ama de casa,Calle primera,Y,everyday,bottled,Y,,null,cementWorking,working,Puente,Nayezca.A,18.90461216,-70.74208309
+Tyler,Perry,12/20/95,null,lessThanprimary,Ffdcgx,Las dlores ,N,4-6AWeek,tap,N,,Hdnand,dirtWorking,working,testORG,Test,18.90795315,-70.73902562
+Marta,De la cruz, ,Female,null,Sereno,El chorro,Y,2-3AWeek,bottled,Y,,En la calle ,cementWorking,working,Puente,Yefripeña,18.90149809,-70.75729634
+Josefa ,Ferrera santo ,6/3/96,Female,primary,Ninguna ,El chorro ,Y,1AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90077997,-70.75780713
+arcenio ,jimenez,7/13/56,Male,someCollege,militar,calle primera,Y,everyday,bottled,Y,1,null,cementWorking,working,Puente,Nayezca.A,18.9049684,-70.74257961
+Santo,Ortiz,6/10/70,Male,someHighSchool,null,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132885,-70.7229801
+Prudencia,Victoriano, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90136889,-70.75719701
+Victor,Castillo,2/5/79,Male,lessThanprimary,Albañil,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.4938661,-69.9265588
+Enmanuel,Candelario,3/3/66,null,null,null,El chorro,Y,1AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90111261,-70.75703524
+luis henriquez ,Lora lora ,7/11/70,Male,highschool,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+juan,batista,10/8/57,Male,someHighSchool,chofer,calle primera ,Y,null,bottled,Y,1,En el tanque,cementWorking,working,Puente,Nayezca.A,18.90411314,-70.7428606
+Maria Esperanza,Soriano Suriel,1/21/39,Female,someHighSchool,Ama de casa,Av. Mela,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037175,-70.7517742
+Wilson,Contreras paez,9/9/83,Male,lessThanprimary,Seguridad de la escuela,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementPoor,working,Puente,Rosa,18.9427293,-70.6784255
+Maria beatriz ,Diaz calderon,8/30/69,Female,primary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427898,-70.6783674
+gilberto,baez,7/1/93,Male,someHighSchool,friturero,calle primera,Y,everyday,bottled,Y,1,en el tanque,cementWorking,working,Puente,Nayezca.A,18.90482409,-70.74219021
+Feliciano,Matias,8/11/47,Male,lessThanprimary,Comerciante,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9053067,-70.750486
+Luz miranni,Pacheco ,7/5/74,Female,someHighSchool,Ama de casa ,La calle primera ,Y,null,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Anilka,Muños,4/2/00,Female,highschool,Ama de casa ,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9429624,-70.6781119
+Tenaida,Duran alcantara,8/29/73,Female,lessThanprimary,null,La kenedid,Y,2-3AWeek,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9125036,-70.7217518
+Lucia,Brito,6/17/83,Female,someHighSchool,Comerciante,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9085514,-70.747853
+edwin jose ,grullon,9/8/57,Male,null,farmaceutico,calle primera,Y,everyday,bottled,Y,1,en el tanque,cementWorking,working,Puente,Nayezca.A,18.90464059,-70.74222261
+claritza,rosario,4/4/96,Female,someHighSchool,ama de casa,la calle primera,Y,null,bottled,N,1,En el tanque,cementWorking,working,Puente,Nayezca.A,18.90416973,-70.7429045
+daniela ,Balbuena ,12/17/55,Female,lessThanprimary,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9038608,-70.7428032
+Denis,Caraballo,1/19/90,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9087676,-70.7477854
+Ines ,de la rosa,5/13/52,Female,highschool,null,santiago apostol,Y,4-6AWeek,tap,Y,2,en el tanque,cementWorking,working,Puente,Nayezca.A,18.91044709,-70.74769507
+Agustin,Peña corcino, ,Male,highschool,null,calle primera,Y,everyday,tap,Y,1,En el tanq,cementWorking,working,Puente,Nayezca.A,18.90419655,-70.74260902
+tata ,Rodrigues,8/18/51,Female,null,maestra de catesismo,calle primera,Y,everyday,bottled,Y,1,en la acera,cementWorking,working,Puente,Nayezca.A,18.90488797,-70.74253457
+Mirian ,De lo santos ,6/12/81,Female,lessThanprimary,Agricultura ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90562777,-70.75822958
+Ana Digna,Abreu Soriano,5/5/70,Female,someCollege,Maestra ,Av. Mella ,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.903723,-70.7517705
+Florentina,Batista, ,Female,someHighSchool,Ama de casa,Cañada de la palma/el chorro,Y,1AMonth,tap,Y,,La carretera,cementWorking,working,Puente,Yefripeña,18.90307783,-70.76364529
+Juaquin ,Parmero  Diaz , ,Male,primary,Agricultura ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,null,null,Puente,Yefripeña,18.90073936,-70.7576094
+Albalina ,Jimenez ciprian,9/17/99,Male,someHighSchool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9125363,-70.7217459
+Teresa,Delgado Matias,9/30/59,Female,college,Ama de casa,Av. Mella,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037174,-70.7517748
+Silvia,Victoriano, ,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9490565,-70.6863254
+Isidro ,Furcal delgado,4/4/63,Male,lessThanprimary,Agricultura,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9490565,-70.6863254
+Clarisa,De la cruz, ,Female,someHighSchool,Agricultura,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90636492,-70.75887289
+Juana,Victoriano,5/27/18,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,bottled,Y,2,Afuera,cementPoor,working,Puente,Rosa,19.2964862,-70.2510637
+Milenia ,Gonzales Aibar ,10/9/72,Female,highschool,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Nayezca.A,18.9044085,-70.7427263
+Agustin,De los santos ferrera, ,Male,highschool,Estudiante,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90642267,-70.75876325
+Ramon ,Delgado ,5/9/79,Male,primary,Agricultura ,El chorro ,Y,2-3AWeek,bottled,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.9004983,-70.75859796
+Candida,Victoriano, ,Female,lessThanprimary,Ama de casa,La cañada de la palma/el chorro,Y,1AWeek,tap,Y,,La calle,cementWorking,working,Puente,Yefripeña,18.90335519,-70.76381251
+fela,de la rosa, ,Female,lessThanprimary,colmadera,sanyiago apostol,Y,2-3AWeek,bottled,Y,2,en la calle,cementWorking,working,Puente,Nayezca.A,18.91095288,-70.7484352
+Martin,Sepulveda,12/10/76,Male,lessThanprimary,Sereno,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90065814,-70.7574716
+Raimond,reinoso,9/30/75,Male,highschool,null,santiago apostol ,Y,4-6AWeek,bottled,Y,2,En el tanque,null,working,Puente,Nayezca.A,18.91043623,-70.7476883
+Hernesto,Dominguez, ,null,null,Sereno,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90590723,-70.7584346
+Ruth,Garcia,11/21/01,Female,someHighSchool,Ama de casa,La Jolla,Y,2-3AWeek,bottled,Y,1,En la calle,cementWorking,working,Puente,Esteff,18.9063612,-70.7503092
+Yerald,Suriel,3/22/00,Male,highschool,Estudiante,Av. Mella,Y,everyday,bottled,Y,1,Frente a la casa ,cementWorking,working,Puente,Yefripeña,18.903723,-70.7517705
+marina ,capellan ,8/16/68,Female,lessThanprimary,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9038608,-70.7428032
+Senaida,Victoriano,5/1/74,Female,highschool,Salon de belleza,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.4938661,-69.9265588
+Deyaniry ,Valdez,1/20/77,Female,highschool,Ama de casa,Villa ortaliza,Y,1AWeek,null,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9429624,-70.6781119
+Adonis ,Ramirez ,6/15/88,Male,highschool,null,La Calle Primera ,Y,null,bottled,Y,1,En la cera ,cementPoor,poor,Puente,Jduran,18.9044085,-70.7427263
+Rafael,Tiburcio,5/20/61,Male,primary,Jornalero,Las flore,Y,everyday,tap,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9129992,-70.7450021
+Margarita ,lebron de corsino ,3/13/81,Female,college,null,La calle primera ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Dionicia ,Sepulveda ,4/14/84,Female,primary,Ninguna ,El chorro ,Y,2-3AWeek,bottled,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.9004983,-70.75859796
+Medina,De la cruz,10/2/83,Male,lessThanprimary,Club gallistico,La Jolla,Y,everyday,tap,N,1,Cerca del puente,cementWorking,working,Puente,Esteff,18.9051838,-70.7505807
+Hector Jose,Suriel,3/31/72,Male,someCollege,Comerciante,Av. Mella,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037223,-70.751771
+franchesca,reynoso,10/14/87,Female,someHighSchool,estetica,Barrio santiago apostol ,Y,null,bottled,Y,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.910437,-70.74768923
+lucia gabriela ,peña constanza ,11/15/90,Female,someHighSchool,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9038608,-70.7428032
+Anais,Suriel,2/17/00,Female,college,Estudiante,Av mella,Y,everyday,bottled,Y,1,La calle ,cementWorking,working,Puente,Yefripeña,18.903723,-70.7517705
+Fraili,Delgado ,6/11/86,Male,someHighSchool,null,La calle primera ,Y,null,bottled,Y,1,En la cera ,null,working,Puente,Jduran,18.9008483,-70.7397066
+Susana,Victoriano,8/16/98,Female,college,Ama de casa,La caña de la palma/el chorro,Y,1AWeek,bottled,Y,,La calle,cementWorking,working,Puente,Yefripeña,18.90310859,-70.76388091
+Amado,Reyes,12/26/52,Male,lessThanprimary,Comerciante,Las flores,Y,everyday,bottled,Y,2,En la calle,dirtWorking,working,Puente,Aurelis,18.9125845,-70.7448761
+Marissa,De lo santos,6/7/80,Female,lessThanprimary,Ninguna ,La caña la palma ,Y,1AWeek,bottled,Y,,La calle,cementWorking,working,Puente,Yefripeña,18.9036468,-70.7627714
+Antonia ,rodriguez ,12/14/66,Female,lessThanprimary,null,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9101341,-70.7481305
+Gaidy,Diaz,6/26/92,Female,someCollege,null,Bario Santiago Apostoles,Y,2-3AWeek,tap,Y,2,Patio tracero,cementWorking,working,Puente,Jduran,18.9127549,-70.7478837
+altagracia,duran ramirez,8/6/43,Female,lessThanprimary,ninguna,santiago apostol ,Y,1AMonth,bottled,Y,2,en la cera,cementWorking,working,Puente,Nayezca.A,18.91114334,-70.74776696
+Benito,Pastiño,5/12/54,null,lessThanprimary,Agricultor,La Jolla,Y,everyday,bottled,N,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9029902,-70.7497422
+Marino ,Duran ,5/8/75,Male,primary,null,Santiago Apostor,Y,1AMonth,null,Y,3,En la sera,cementWorking,working,Puente,Jduran,18.9127549,-70.7478837
+Raquel ,Reyno ,6/5/70,Female,lessThanprimary,Ama de Casa ,Santiago Apostor ,Y,4-6AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9106263,-70.7480404
+Obtavia Quisquella ,Tejada Viñas ,9/22/45,Female,lessThanprimary,Ama de casa ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9102113,-70.7482511
+Pablo,Mejia,12/22/58,Male,lessThanprimary,Agricultura,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9020817,-70.7512289
+Modesta,Mendez,9/28/64,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,N,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9031493,-70.7512289
+Antonia ,Mariano suriel,12/27/88,Female,primary,Ama de casa ,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9429786,-70.6783447
+Maricela ,Custodio,10/6/37,Female,lessThanprimary,Ama de Casa ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9103976,-70.7476732
+Carolina,De los santos,4/10/99,Female,college,Ama de casa,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.9126725,-70.7452932
+altagracia dolores,reyes,8/7/61,Female,lessThanprimary,ama de casa,santiago apostol,Y,4-6AWeek,tap,Y,2,en la acera,cementPoor,poor,Puente,Nayezca.A,18.91070856,-70.7477676
+Luis ,Carvajal peralta ,4/7/88,Male,lessThanprimary,trabajador en parcela ,la xalle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.904056,-70.7427379
+Altagracia ,valenzuela,4/1/63,Female,lessThanprimary,Ama de casa ,Santiago Apostor ,Y,2-3AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9127549,-70.7478837
+Arianna ,Caraballo ,5/5/85,Female,someHighSchool,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9063229,-70.7434892
+Santa ,Victoriano,4/14/79,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.9127704,-70.745476
+Aracely,Araujo,1/7/88,null,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9029902,-70.7497422
+Sofia ,Duran De Rodriguez ,5/11/56,Female,primary,Ama de casa y Aveces trabaja en el taller ,Santiago Apostor ,Y,everyday,tap,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9100445,-70.7482818
+Obidio,Cruz,10/28/47,Male,lessThanprimary,Agricultura,La Jolla,Y,1AWeek,tap,Y,1,En la calle,cementPoor,working,Puente,Esteff,18.4938661,-69.9265588
+Amado,Victoriano Jimenez,8/21/40,Male,lessThanprimary,Agricultor,Las flores,Y,everyday,bottled,Y,2,En la Calle,cementPoor,working,Puente,Aurelis,18.9131067,-70.7459793
+Teresa,Caraballo, ,Female,lessThanprimary,Ama de casa ,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9428394,-70.6783081
+Maxima,Batista ,12/10/74,Female,null,Ninguna ,La caña la palma (el Chorro),Y,1AMonth,bottled,null,,Frente de la calle ,cementPoor,working,Puente,Yefripeña,18.90323277,-70.76366683
+Anabel,Duran mercedes,1/30/96,Female,someHighSchool,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.942786,-70.6783326
+noe,Jimenez,5/14/91,Male,highschool,transporte,caole primera,Y,everyday,bottled,Y,1, En la acera,cementWorking,working,Puente,Nayezca.A,18.90434472,-70.74285253
+Mairis,Galbán v,3/18/86,Female,highschool,Ama de casa,La jolla,Y,1AWeek,bottled,Y,1,Afuera de la casa ,cementPoor,poor,Puente,D García,18.9073989,-70.745723
+Orquidea,Alcantara quezada,2/16/81,Female,college,Maestra ,Villa ortaliza ,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9430652,-70.6783442
+Ramona,Delgado,3/25/68,Female,lessThanprimary,Ama de casa,La Jolla,Y,1AWeek,bottled,N,1,Mas abajo de su casa,cementPoor,poor,Puente,Esteff,18.9032266,-70.7486271
+rosa ,rodriguez,12/24/56,Female,lessThanprimary,ama de casa,santiago apostol ,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91003633,-70.74816931
+Deisi ,Reyes,4/6/74,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427898,-70.6783674
+Penelope,Abreu,12/7/94,Female,someCollege,Banquera,La Jolla,Y,2-3AWeek,bottled,N,1,En el callejon,cementWorking,poor,Puente,Esteff,18.9043715,-70.7460253
+Miguel,Oltaño,5/16/68,Male,lessThanprimary,null,La Flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9129149,-70.7455937
+Estefany,Victorianl,3/18/98,Female,null,Casa de familia,La cañada de la palma,Y,1AMonth,tap,Y,,La carretera,cementWorking,working,Puente,Yefripeña,18.90320117,-70.7632476
+Helkin Rafael ,Duran Bello ,11/11/85,Male,highschool,Colmadero ,Santiago Apostor ,Y,2-3AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9109708,-70.7475635
+diana,adbud,8/8/68,Female,highschool,enfermera,santiago apostol ,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.90991582,-70.74850171
+Donisa,Rodriguez Canario,10/5/96,Female,someHighSchool,null,Las Flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9126245,-70.7447883
+Antonio,Victoriano Magarin,12/21/85,Male,lessThanprimary,Agricultor,Las flores ,Y,everyday,bottled,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.9131067,-70.7459793
+Orquidea,Vallejo,3/25/99,Female,someHighSchool,Comerciante,Las Flores,Y,everyday,bottled,Y,2, La CaLle,cementPoor,poor,Puente,Aurelis,18.9126202,-70.7447856
+Ramon,Valdez, ,Male,lessThanprimary,Vendedor,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9051135,-70.7506622
+Cristina,Vicente,12/30/72,Female,lessThanprimary,Vendedora,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9050544,-70.7507322
+Leonela,Castillo, ,Female,lessThanprimary,Agriculturs,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9037174,-70.7517899
+luis yoel ,rosado,12/4/76,Male,college,null,santiago apostol,Y,4-6AWeek,tap,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91059477,-70.74776235
+Yuri,Rosa de los santos ,4/27/97,Female,college,Estudiante y facilitadora tecnologica,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489117,-70.6861695
+francisco antonio ,espinal,12/7/50,null,lessThanprimary,null,santiago apostol,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.9104852,-70.7475
+Persida,De los Santos Delgado,1/1/18,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,Carretera,cementWorking,working,Puente,Yefripeña,18.90822193,-70.75999808
+Luis ,Vallejo,12/29/75,Male,lessThanprimary,Agricultura,El chorri,null,null,null,null,,null,null,null,Puente,Kiaraabreu,18.9013267,-70.7554351
+Angela,Delgado,1/6/54,Female,null,Ama de casa,El chorro/canal,Y,1AWeek,tap,Y,1,Carretera,cementWorking,working,Puente,Yefripeña,18.90922692,-70.76076745
+Jose Luis,Cabrera,6/16/86,Male,someHighSchool,No trabaja,Los Peinados,Y,everyday,bottled,N,1,A fuera de la casa,cementPoor,poor,Puente,Esteff,18.9116411,-70.7453348
+Eunice,Santos,4/5/78,Female,college,Estilista,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,poor,18-01,Candiany,18.9132885,-70.7229801
+Griselda,Rosa,1/15/57,Female,lessThanprimary,Cosmetica,Los Peinados,Y,everyday,bottled,N,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9119266,-70.7454657
+Crily ,Sicart,3/8/97,Male,highschool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,working,18-01,Candiany,18.9132486,-70.7226084
+santa marta ,canela,8/5/64,Female,lessThanprimary,ama de casa,santiago apóstol,Y,2-3AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91126745,-70.74768625
+Francisco,Delgado,10/10/40,Male,primary,Agricultor,La Jolla,Y,2-3AWeek,tap,Y,1,Alante de la casa,cementPoor,poor,Puente,Esteff,18.9060222,-70.7504126
+Mirian Altagracia ,Perez Furcal ,11/28/76,Female,someHighSchool,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9063229,-70.7434892
+Jose Eliseo,Abreu soriano,4/22/67,Male,someHighSchool,Construccion,Av. Mella,Y,null,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037177,-70.7517746
+Alisa ,Zoto ,8/12/91,Female,lessThanprimary,Ninguna ,El canal de bandonada ,Y,1AWeek,bottled,Y,,Al final de la calle ,cementPoor,working,Puente,Yefripeña,18.90887886,-70.76028071
+Ginaira,Sanchez,5/4/98,Female,someHighSchool,Estudiante,Los Peinados,Y,everyday,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9120442,-70.7452644
+Marianni,Victoriano ,11/13/01,Female,highschool,Estudiante ,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90294628,-70.75830552
+criss,santos ,10/2/70,Female,college,Ama de casa ,Santiago Apostor ,Y,2-3AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9127549,-70.7478837
+Esmeralda,Canela,4/19/88,Female,college,Estudiante,Lakenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,null,18-01,Candiany,18.9132486,-70.7226084
+Diogenes ,Ramirez, ,Male,lessThanprimary,null,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Ines,Ramirez,8/15/83,Female,lessThanprimary,Casa de familia,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9091566,-70.7475121
+yajaira ,diaz,2/17/84,Female,college,estilista,santiago apostol,Y,4-6AWeek,bottled,Y,,null,cementPoor,poor,Puente,Nayezca.A,18.91047504,-70.74821894
+Luisa ,Vallejo,6/22/90,Female,college,Estudiante ,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,poor,Puente,Kiaraabreu,18.9037196,-70.7517908
+Maria,Perez,6/16/62,Female,lessThanprimary,Ama de casa,Los Peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9121011,-70.7454228
+Jamin ,Suriel,4/22/87,Female,highschool,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9070835,-70.7433876
+Domingo,Reyes,1/19/68,Male,lessThanprimary,No trabaja,La Jolla,Y,everyday,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9029902,-70.7497422
+Carlita ,Capellan Rivas ,9/29/81,Female,college,profesora ,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Nayezca.A,18.9043975,-70.7427303
+Clara ,Ramirez reyes,10/15/68,Female,lessThanprimary,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,working,18-01,Candiany,18.9132486,-70.7226084
+Kenia,Delgado,11/5/82,Female,primary,Modista,La Jolla,Y,1AWeek,bottled,Y,1,A lante de su casa,cementPoor,poor,Puente,Esteff,18.9062965,-70.7500159
+Pedro,Cruz, ,Male,lessThanprimary,Sereno,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9075001,-70.7522436
+Mario,Alcantara,1/1/84,Male,lessThanprimary,Invalido ,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9070835,-70.7433876
+Seneida ,De los santo Ferrera ,6/8/71,Female,lessThanprimary,Ninguna ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente la carretera ,cementWorking,working,Puente,Yefripeña,18.90536752,-70.75845648
+Santa veronica,Victoriano,8/7/89,Female,someHighSchool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,working,18-01,Candiany,18.9061459,-70.7393349
+Yubelquis,Mena,2/17/00,Female,someHighSchool,Estudiante,La Jolla,Y,everyday,tap,Y,1,En frente de la casa,cementPoor,working,Puente,Esteff,18.9075366,-70.7489988
+Jose ,De la rosa de la cruz,6/20/70,Male,primary,Chofer,Villa ortaliza,Y,1AWeek,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9070835,-70.7433876
+Llodenys,Dominguez,9/23/85,Male,someHighSchool,Albanista,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Mirelis,Minyeti,12/4/72,Female,lessThanprimary,Ama de casa,Los Peinados,Y,everyday,bottled,N,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9117027,-70.7451825
+Maricela ,Peralta ,8/16/64,null,lessThanprimary,null,El chorro ,Y,2-3AWeek,bottled,Y,1,Frente de la carretera ,dirtWorking,poor,Puente,Yefripeña,18.90294976,-70.75859796
+Ramona,Gratero,11/8/64,Female,lessThanprimary,Agricultura ,El Chorro,Y,2-3AWeek,tap,Y,1,Frente de la casa ,cementPoor,poor,Puente,Kiaraabreu,18.9086492,-70.7536102
+Unices ,Ramirez ,11/25/83,null,someHighSchool,null,La Calle Primera ,Y,null,bottled,Y,1,En la cera ,cementPoor,poor,Puente,Jduran,18.9044085,-70.7427263
+Chiquis,Diaz ,4/12/65,Female,someHighSchool,null,La calle Primera ,Y,everyday,bottled,Y,1,En la xera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Margarita,Corcino,8/21/81,Female,highschool,null,Calle primera,Y,everyday,tap,N,1,En el tanque,cementWorking,working,Puente,Nayezca.A,18.90425908,-70.74217807
+Candida,Cepeda,11/16/74,Female,lessThanprimary,null,El chorro,Y,null,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9020817,-70.7512289
+Jose ,Albares ,5/22/80,Male,primary,Agricultura ,El chorro ,Y,2-3AWeek,bottled,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90093332,-70.75813587
+Welinton,Ferrera santos,3/4/04,Male,primary,Estudiante,El chorro,Y,4-6AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9083904,-70.7529393
+Juan,Duran, ,Male,lessThanprimary,Amo de casa,La Jolla,Y,1AWeek,bottled,Y,1,En la calle,cementWorking,working,Puente,Esteff,18.9065251,-70.7501744
+Nicolas ,Rosado ,5/6/98,Male,primary,Agricultura ,El chorro,Y,2-3AWeek,bottled,Y,1,Frente de la calle ,cementWorking,working,Puente,Yefripeña,18.90550477,-70.75842613
+Andrea,Santos,6/6/81,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9077844,-70.7518787
+Juan ,Cruz ,6/4/81,Male,primary,Agricultura ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.9053738,-70.75834491
+franklin ,Abreu ,3/10/86,Male,highschool,Comerciante ,La calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementWorking,working,Puente,Jduran,18.8950357,-70.7385915
+Maria,Ferrera, ,Female,lessThanprimary,Ama de casa,El chorro,Y,everyday,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9081748,-70.7527705
+Fatima ,Rosa de los santos ,11/4/86,Female,highschool,Ama de casa ,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera ,dirtPoor,working,Puente,Rosa,18.9070835,-70.7433876
+Joselito,Ferrera Quiroz,2/14/72,Male,lessThanprimary,Agricultor,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Kiaraabreu,18.9079657,-70.7526187
+Sanabio ,Delgadov,5/6/59,Male,lessThanprimary,null,El chorro,Y,2-3AWeek,bottled,Y,1,Frente de la carretera,cementWorking,working,Puente,Yefripeña,18.90563368,-70.75824156
+Manuel Antonio ,Baez ,5/10/96,Male,someHighSchool,null,La Calle Primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9007452,-70.7397587
+Aracelis ,Diaz ,5/10/59,Female,lessThanprimary,Ama de Casa ,Santiago Apostor ,Y,2-3AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9102162,-70.7482134
+Rosairis,Mateo Victoriano,12/10/94,Female,someHighSchool,Empleada privada,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.9126725,-70.7452932
+Carla ,Gernaldo,11/14/98,Female,highschool,Ninguna ,El chorro ,Y,2-3AWeek,bottled,Y,1,Frente de la calle ,cementWorking,working,Puente,Yefripeña,18.90566813,-70.7583398
+Albania ,Vitoriano ,8/10/94,Female,lessThanprimary,Ninguna ,El canal bandonado ,Y,2-3AWeek,bottled,Y,,Al final de la calle ,cementWorking,working,Puente,Yefripeña,18.90887886,-70.76028071
+Mayelin ,Ramirez,12/15/94,Female,college,Eatudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9048316,-70.7270688
+Sanyi ,capellan ,6/20/77,Female,highschool,estudiante ,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Unis ,Ramirez ,10/24/69,Female,lessThanprimary,null,La calle Primera ,Y,null,bottled,Y,1,En la cera ,cementPoor,poor,Puente,Jduran,18.9038608,-70.7428032
+Ramona ,Duran,9/21/74,Female,lessThanprimary,Ama de casa,Calle primera,Y,everyday,bottled,Y,1,El ta,cementWorking,working,Puente,Nayezca.A,18.9034789,-70.7428824
+Maria,Rodriguez,5/5/60,Female,lessThanprimary,Ama de casa,Las Flores,Y,2-3AWeek,bottled,Y,3,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9150642,-70.7454383
+Jeffrey,Collado,10/15/98,Male,college,Estudiante ,Las flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9124251,-70.7444489
+Ana anthonia,Hernandez, ,Female,lessThanprimary,Ama de casa,La cañada de la palma/el chorro,Y,1AMonth,tap,Y,,La carretera,cementWorking,working,Puente,Yefripeña,18.90308282,-70.76370288
+Francis,Ciprian,4/16/98,Male,highschool,Estudiante,Las flores,Y,2-3AWeek,bottled,Y,1,Al camión ,cementPoor,working,Puente,Aurelis,18.9140952,-70.7460326
+Maria Altagracia ,Luna De Peralta ,12/15/58,Female,highschool,Ama de Casa ,Santiago Apostor ,Y,everyday,tap,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9102366,-70.7482998
+Petronila ,De lO Santos ,6/17/42,Female,lessThanprimary,Agricultura ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la calle ,cementWorking,working,Puente,Yefripeña,18.90541969,-70.75853191
+Marta,Araujo,5/11/87,Female,highschool,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9029902,-70.7497422
+Antonio,Jimenez,3/30/73,Male,someHighSchool,Agricultor,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa Elenny Duran Jimenez,18.9489117,-70.6861695
+Domingo,Reyes,4/8/63,Male,highschool,Negociante,Las Flores,Y,everyday,bottled,Y,2,En frente de la casa,cementWorking,working,Puente,Esteff,18.4964939,-69.9246977
+Noraliza,Corcino,10/17/84,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9082136,-70.7391466
+Leticia,Jimenez, ,Female,lessThanprimary,Ama de casa,El chorro,Y,everyday,bottled,Y,1,La carretera,cementPoor,working,Puente,Kiaraabreu,18.9068539,-70.7516914
+Juana,Quiroz, ,Female,someHighSchool,Ama de casa ,El chorro,Y,everyday,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9077844,-70.7518787
+Eridania,Delgado,10/14/94,Female,someHighSchool,Ama de casa,Las Flores,Y,2-3AWeek,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9149949,-70.7454522
+Anny Rosarito,Suriel,2/27/71,Female,someHighSchool,Ama de casa,San isidro,Y,2-3AWeek,tap,Y,1,Al frente,cementPoor,working,Puente,Y. Batista ,18.9165784,-70.7431051
+enmanuel ,elias rodriguez,3/10/47,Male,null, repuestos,Santiago aapóstol,Y,4-6AWeek,tap,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91002504,-70.74828468
+Carmen ,Araujo ,7/16/88,Female,primary,null,El chorro ,Y,2-3AWeek,bottled,Y,1,Frente de la calle ,cementWorking,working,Puente,Yefripeña,18.90144024,-70.75492627
+Martin,peralta,4/6/92,Male,college,null,calle primera,Y,everyday,bottled,Y,2,En el tanque,cementWorking,working,Puente,Nayezca.A,18.90251103,-70.74285645
+Antonio,Ferrera,11/10/59,Male,lessThanprimary,Agricultor,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9158567,-70.7418555
+Ana ,Anazagatismartes,8/28/52,Female,someCollege,Pencionada,Calle primera,Y,everyday,tap,Y,1,En el tanque,cementWorking,working,Puente,Nayezca.A,18.9039078,-70.742831
+Ivelise,Alcantara,1/25/83,Female,null,Comerciante,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9126244,-70.7447865
+Estefania ,Garcia ,10/16/57,null,lessThanprimary,Ama de Casa ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9102243,-70.7477633
+Caridad,Araujo, ,Female,someHighSchool,Agricultura,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9037196,-70.7517908
+Margarita,Fernandez, ,Female,lessThanprimary,Ama de cass,El chorro,Y,4-6AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9077129,-70.75234
+Fioldaliza,Rosa,5/24/02,Female,someHighSchool,null,Las flores,Y,2-3AWeek,tap,Y,,En la calle,cementPoor,working,Puente,Aurelis,18.9146194,-70.7456736
+Mercedes,Rosado,2/20/80,Female,lessThanprimary,Empleada privada,Las flores ,N,1AMonth,tap,Y,1,En la calle,cementPoor,poor,Puente,Aurelis,18.9148981,-70.7457386
+Maria,Duran,6/20/54,Female,lessThanprimary,En el ayuntamiento,Las Flores,Y,2-3AWeek,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9149959,-70.7454424
+Karla,Victoriano Canario,12/31/00,Female,highschool,Estudiante,Las flores ,Y,everyday,bottled,Y,2,Calle,cementWorking,working,Puente,Aurelis,18.91245202,-70.74464972
+Yomeiry,Quezada,6/25/97,Female,college,Eatudiante,La kenedid,Y,2-3AWeek,bottled,Y,3,La calle,cementWorking,working,18-01,Candiany,18.9048316,-70.7270688
+Felicia,Martines,1/24/32,Female,lessThanprimary,Ama de casa ,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9428058,-70.6786461
+Paula ,Abreu,5/8/78,Female,primary,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Antonia,Delgado,6/13/71,Female,lessThanprimary,Trabajo casa domestica,La Jolla,Y,everyday,bottled,N,1,Atras,cementPoor,poor,Puente,Esteff,18.9050434,-70.7456536
+Milanda,Victoriano,3/2/91,Female,someHighSchool,Ama de casa,Los Peinados,Y,everyday,bottled,N,1,A fuera de la casa,cementPoor,poor,Puente,Esteff,18.9115827,-70.7451936
+yinette ,candelario cabral ,8/30/70,Female,college,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Yarissa,Diaz,8/14/92,Female,lessThanprimary,Ama de casa,La cañada de la palma/el chorro,Y,1AMonth,tap,Y,,La carretera,cementWorking,working,Puente,Yefripeña,18.90307704,-70.76365921
+Adrian,Cruz, ,Male,college,Estudiante,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,null,Puente,Kiaraabreu,18.9158567,-70.7418555
+Juan ,peralta Caraballo ,8/10/79,Male,college,agricultor ,la calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementPoor,working,Puente,Jduran,18.9008483,-70.7397066
+Cristopher,duran,5/3/95,Male,someHighSchool,pelotero,calle primera,Y,everyday,bottled,Y,2,En el tanque,cementWorking,working,Puente,Nayezca.A,18.90394473,-70.74263359
+Francisca,Colon,8/3/59,Female,lessThanprimary,Ama de casa,Las Flores,Y,1AMonth,tap,null,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9149949,-70.7454522
+ronny ,Peralta De La cruz ,12/14/89,Male,college,agricultor ,la calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Boliva,Abreu,12/4/85,Male,highschool,Agricultor,La kenedid,Y,2-3AWeek,bottled,Y,3,La. Calle,cementWorking,working,18-01,Candiany,18.9048316,-70.7270688
+Francisco,Ciprian,10/4/46,Male,lessThanprimary,Agricultura,Las Flores,Y,2-3AWeek,bottled,Y,2,En frente de la casa,cementPoor,working,Puente,Esteff,18.9149949,-70.7454522
+Josefina,Abreu,5/14/75,Female,someHighSchool,Estilista,Las Flores,Y,2-3AWeek,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9132244,-70.7460533
+Arieliza,Paez,6/27/00,Female,highschool,null,Las flores,Y,1AWeek,bottled,Y,1,En la calle,cementPoor,poor,Puente,Aurelis,18.9149949,-70.7454522
+Pedrito,Mejia, ,Male,lessThanprimary,Agricultura ,El chorro ,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,null,Puente,Kiaraabreu,18.9014388,-70.7553131
+Lisandro,De la cruz ,6/10/90,Male,someHighSchool,Jornalero,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,poor,Puente,Kiaraabreu,18.9088406,-70.7478837
+Rosanna,Victoriano, ,Female,lessThanprimary,Secretaria ,El chorro ,N,2-3AWeek,tap,Y,1,La calle,cementPoor,poor,Puente,Kiaraabreu,18.9073797,-70.7508572
+Alcenio,Victoriano,6/28/85,Male,lessThanprimary,Empleado privado,Las flores ,Y,everyday,bottled,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.91355178,-70.74506296
+Fernando,Moronta, ,Male,lessThanprimary,Sereno,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9016819,-70.7542253
+Yoel ,Rodriguez Anazagatis ,5/6/84,Male,highschool,Colmadero ,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Altagracia,Batista,12/21/44,Female,lessThanprimary,Ama de casa,Las flores,Y,2-3AWeek,bottled,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9142221,-70.7458419
+Oriana,Peña, ,Female,highschool,Estudiante,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9088406,-70.7478837
+Ramon Antonio ,Candelario Cabral ,12/30/72,Male,college,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Rosario ,Mendez, ,Female,lessThanprimary,Ama de casa,El chorro ,Y,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9078296,-70.7521915
+Maribel ,Diaz ,12/9/78,Female,lessThanprimary,Ninguna ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90469776,-70.75787988
+Francisco ,Ramirez,6/12/42,Male,lessThanprimary,null,Las flores,N,everyday,tap,Y,1,En la calle,cementPoor,working,Puente,Aurelis,18.9147372,-70.7465121
+Maria,Ramirez , ,Female,someHighSchool,Ama de casa,El chorro ,Y,2-3AWeek,bottled,Y,1,La Callé ,cementPoor,working,Puente,Kiaraabreu,18.9093827,-70.7537393
+Elizabeth ,Pichardo Duran ,4/4/81,Female,college,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Luz ,Peralta De La Cruz ,10/30/92,Female,college,secretaria ,la calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Fernando ,Hernández , ,Female,lessThanprimary,Jornalero,El canal,Y,2-3AWeek,bottled,Y,1,La carretcarretera ,cementWorking,working,Puente,Kiaraabreu,18.9093827,-70.7537393
+Silvestre ,Perez, ,Female,lessThanprimary,Jornalero,El canal,Y,2-3AWeek,bottled,Y,1,La carretera ,cementPoor,poor,Puente,Kiaraabreu,18.9081514,-70.756374
+Ana maria,Ciprian,6/15/74,Female,lessThanprimary,Ama de casa,Las flores,Y,2-3AWeek,bottled,Y,1,En la calle,cementWorking,working,Puente,Aurelis,18.9144038,-70.7462743
+Juan,Peralta, ,null,lessThanprimary,Agricultura ,El chorro,N,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9088406,-70.7478837
+Susana ,Mendez, ,Female,lessThanprimary,Ama de casa,El chorro ,Y,2-3AWeek,bottled,Y,1,La calle ,cementPoor,working,Puente,Kiaraabreu,18.9014671,-70.7577552
+pedro ,Peres ,12/31/46,Male,someHighSchool,Agronomo ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9104989,-70.7476591
+Yerissel,Victoriano,11/17/01,Female,highschool,Estudiante ,La Vega,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90144024,-70.75492627
+nicole,valdez,9/17/00,Female,college,universitaria,Santiago apostol,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91034914,-70.74755349
+santa irene ,Castillo Castillo ,5/10/79,Female,highschool,Ama de casa ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9103762,-70.7476732
+Camila,Ramirez,8/8/00,Female,highschool,Estudia,La jolla ,Y,1AWeek,bottled,Y,1,Fuera de la casa,cementWorking,working,Puente,D García,18.9061928,-70.7497422
+Maria ,Victoriano ,3/10/58,Female,lessThanprimary,Ninguna ,El canal ,Y,2-3AWeek,tap,Y,1,Frente de la carretera ,null,working,Puente,Yefripeña,18.90627963,-70.76084867
+Griselda ,Lopez ,2/22/80,Female,lessThanprimary,Ninguna ,El chorro ,Y,1AWeek,bottled,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90630357,-70.75956616
+Clarisabel ,Diaz ,8/6/77,Female,primary,Jornalero ,El canal ,Y,1AWeek,tap,Y,1,La calle ,cementWorking,working,Puente,Yefripeña,18.90639409,-70.75918972
+Anderson,Lopez,6/24/75,Male,someHighSchool,Refrigeracion,Los peinados,Y,everyday,bottled,N,1,Afuera de la casa,cementWorking,working,Puente,Esteff,18.9114211,-70.7454007
+Fabian,Victoriano, ,Male,lessThanprimary,Jornalero,El canal,Y,4-6AWeek,tap,Y,1,Frente de la calle ,cementWorking,working,Puente,Yefripeña,18.90662723,-70.76061758
+Raul,Marinez,9/11/76,Male,lessThanprimary,Mecanica,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9121564,-70.7443714
+Maritza,pichardo,7/20/93,Female,college,Salonista,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9104813,-70.7476639
+Frank,Espinal,7/12/68,null,primary,null,Barrio santiago apostol,Y,4-6AWeek,bottled,Y,2,En la calle,cementWorking,working,Puente,Nayezca.A,18.9105182,-70.7476582
+Tania ,null, ,Female,college,Viajante ,La caña de la palma,Y,1AMonth,tap,Y,,La calle,cementWorking,working,Puente,Yefripeña,18.90347925,-70.76098731
+mariela ,Abreu ,5/15/78,Female,college,salonista ,la calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementWorking,working,Puente,Jduran,18.9033414,-70.7430518
+Nayelis,Pichardo ,9/30/85,Female,highschool,Salonista ,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la cera,cementWorking,working,Puente,Jduran,18.9105791,-70.7475964
+Jorge ,Rosa abreu,8/8/56,Male,lessThanprimary,Abrero de obras publicas ,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489117,-70.6861695
+Rudelania,Duran,12/30/83,Female,primary,Venta ,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera ,cementPoor,poor,Puente,Rosa,18.9427316,-70.6783936
+Maria ,Caraballo,1/25/98,Female,highschool,Ama de casa ,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9431146,-70.6782861
+Carlos Manuel,Victoriano Magarin,4/4/81,Male,lessThanprimary,null,Las flores ,Y,everyday,bottled,Y,2,En la cCallé ,cementPoor,working,Puente,Aurelis,18.9126244,-70.7447865
+Santo jose,Delgado,7/20/82,Male,primary,Albañil,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,dirtPoor,working,Puente,Rosa,18.9070835,-70.7433876
+Jhonny ,candelario  cruz,2/2/70,Male,college,Comunicador social,santiago apostol,Y,4-6AWeek,bottled,Y,2,Camion de la basura ,cementWorking,working,Puente,Nayezca.A,18.9106198,-70.7478837
+Jhonny,Candelario Cruz,2/2/70,Male,college,Comunicador ,Santiago Apostores,Y,4-6AWeek,bottled,Y,2,En el camion de la basura ,cementWorking,working,Puente,Jduran,18.9109359,-70.7475121
+Ricauri,Cabral,6/11/88,Female,college,Empleada privada,Las flores ,Y,4-6AWeek,bottled,N,2,Cuando Pasa el camión ,cementPoor,poor,Puente,Aurelis,18.9140889,-70.7455885
+Santa,Hernandez, ,Female,lessThanprimary,Ama de casa,El chorro,Y,4-6AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9072038,-70.7519573
+Darling,de los santos,12/14/87,Male,highschool,vendedor,calle primera,Y,everyday,bottled,Y,2,2,cementWorking,working,Puente,Nayezca.A,18.90276254,-70.74297833
+Miguelina,Moronta,9/29/93,Female,highschool,Estudiante,Las Flores,Y,2-3AWeek,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9149949,-70.7454522
+Bismar,Cruz,3/4/91,Female,lessThanprimary,null,calle primera,Y,everyday,bottled,Y,2,En e saco,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Blanca,Ferrera,6/12/85,Female,someHighSchool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Nairobis,De la cruz,3/2/96,Female,someHighSchool,Casa de familia,La jolla,Y,1AWeek,bottled,Y,1,En el partio,cementWorking,working,Puente,Esteff,18.9052203,-70.7505523
+Maura,Delgado,2/13/95,Female,lessThanprimary,Ama de casa,La Jolla ,Y,everyday,bottled,Y,1,Al lado ,dirtPoor,poor,Puente,D García,18.9051984,-70.7503235
+Estefani,Espinal vitoriano,8/27/99,Female,someHighSchool,Ninguna ,El chorro,Y,4-6AWeek,bottled,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90497876,-70.75829647
+Katiuska,Bonifacio,10/30/93,Female,college,Estudiante,Los Peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9122431,-70.7455482
+Monica,Valdez,12/12/01,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9051082,-70.7506933
+Elias ,Pichardo ,6/9/69,Male,college,Agricultor ,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Sandra,Ramirez,10/9/87,Female,lessThanprimary,Ama de casa,Los Peinados,N,everyday,bottled,N,1,Mas arriba de su casa,cementWorking,working,Puente,Esteff,18.9124071,-70.7450805
+Marina,Victoriano,1/1/59,Female,lessThanprimary,null,El chorro,Y,1AWeek,tap,Y,,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90315365,-70.75869167
+Lionel,Delgado,12/25/65,Male,lessThanprimary,Vendedor ambulante,La Olla,Y,everyday,bottled,N,1,Fuera,cementPoor,poor,Puente,Esteff,18.9053839,-70.7503339
+Consuelo,Diaz, ,Female,lessThanprimary,Ama de casa,El chorro,Y,Never,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90258577,-70.75876191
+Hilda ,Aybar,2/7/65,Female,lessThanprimary,Ningunob,El chorro,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90364856,-70.7578751
+Marcia ,Perez ,1/13/80,Female,lessThanprimary,Ninguna ,El canal ,Y,4-6AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90638994,-70.76040041
+Lurdes,De la cruz, ,Female,lessThanprimary,Ama de casa,El chorro,Y,4-6AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Kiaraabreu,18.9114709,-70.744579
+Leidy,Cabrera,10/23/99,Female,someHighSchool,Ama de casa,La Jolla ,Y,everyday,tap,Y,1,Delante ,cementWorking,working,Puente,D García,18.9051864,-70.7505792
+Damián ,Santos,12/31/77,Male,primary,Jornalero,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9025171,-70.7519723
+Mayelin,Abreu ,3/12/92,Female,highschool,Ama de casa,El chorro,Y,1AMonth,bottled,Y,1,La calle,cementPoor,poor,Puente,Yefripeña,18.90258882,-70.75878876
+wilson,Monte De Oca,12/30/83,Male,highschool,Cantante,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la cera,cementWorking,working,Puente,Jduran,18.9105737,-70.7475992
+Marino ,Jimenez,8/24/71,Male,primary,Agricultor,Santa rosa,Y,Never,bottled,Y,1,Afuera ,dirtPoor,working,Puente,Rosa Elenny Duran Jimenez,18.9488775,-70.6860342
+Jasmin,cabral,4/5/93,Female,college,Ama de casa ,Barrio Santiago Apostor ,Y,4-6AWeek,bottled,Y,2,En la cera,cementWorking,working,Puente,Jduran,18.9105729,-70.747583
+Susana,Trinidad Diaz, ,Female,someHighSchool,Ama de casa,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementWorking,poor,Puente,Kiaraabreu,18.9037196,-70.7517908
+Yamilca ,Delgado santo ,5/14/74,Female,lessThanprimary,Ninguna ,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90258577,-70.75876191
+Seline,Rodriguez Canario,1/9/99,Female,highschool,Empleada privada,Las flores ,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9134683,-70.7452783
+Sara,Vallejo, ,Female,highschool,Ama de casa ,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9145296,-70.7435034
+Antonio,Rosa,5/4/52,Male,someHighSchool,Negociante de un colmado,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9488775,-70.6860342
+Berto,Espinal Rosado ,4/29/94,Male,highschool,Agricultor ,El chorro ,Y,2-3AWeek,bottled,Y,,Al final de la calle ,cementWorking,working,Puente,Yefripeña,18.90543172,-70.74878043
+Alexandra ,Santos ,1/1/18,Female,college,Maestra ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90553154,-70.74850507
+Primitiva ,De los santo , ,Female,primary,Ama de casa ,Santa rosa ,null,null,null,null,,null,null,null,Puente,Rosa Elenny Duran Jimenez,18.9488775,-70.6860342
+jutiniano,Peralta de los santos,11/2/69,Male,highschool,refijeracion,la arroyo arriba,Y,2-3AWeek,bottled,Y,2,frente a la casa,cementWorking,working,Puente,candiany,18.9142132,-70.741565
+Yeily,Bello Cabral ,2/27/94,Female,college,Secretaria,La calle Primera ,Y,everyday,bottled,Y,1,En el camion ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Faustino,aquino,11/18/69,Male,college,null,santiago apostol ,Y,4-6AWeek,bottled,Y,2,En el tanque,cementWorking,working,Puente,Nayezca.A,18.91028521,-70.74758011
+Masiel ,Abreu ,5/11/79,Female,college,null,La calle primera ,Y,everyday,bottled,Y,3,en la cera ,cementWorking,working,Puente,Jduran,18.8950357,-70.7385915
+Jose Isabel,Ferrera,6/1/54,Male,lessThanprimary,Agricultura,El chorro,Y,1AMonth,tap,Y,1,Frente a la casa,dirtWorking,working,Puente,Yefripeña,18.90244285,-70.75838432
+Sunilda,Contreras,11/19/58,Female,primary,Ama de casa,El chorr,Y,1AMonth,tap,Y,1,En la celle,cementPoor,working,Puente,Yefripeña,18.90364856,-70.7578751
+Lorenzo,Suriel , ,Male,lessThanprimary,Ninguna ,El chorro ,Y,1AMonth,bottled,Y,,Al salir de la comunidad,cementPoor,poor,Puente,Yefripeña,18.90205486,-70.75862931
+alberto ,garcia cabral,10/13/56,Male,someHighSchool,vendedor,calle primera,Y,everyday,bottled,Y,1,En la cera,cementWorking,working,Puente,Nayezca.A,18.90343252,-70.74299893
+Chavela,Sedano,9/29/75,Female,primary,Ama de casa ,La jolla ,Y,2-3AWeek,bottled,Y,1,fuera de la casa ,cementPoor,working,Puente,D García,18.9073989,-70.745723
+Miguelina ,Delgado ,9/9/97,Female,lessThanprimary,Ninguna ,El canal ,Y,4-6AWeek,tap,Y,1,Frente de la carretera,cementWorking,working,Puente,Yefripeña,18.90617113,-70.7600632
+Jelkys camila,lorenzo duran,5/11/98,Female,someHighSchool,estudiante,barrio santiago apostol,Y,4-6AWeek,tap,N,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.9104844,-70.7477207
+Santa,Ferrera,11/12/72,Female,someHighSchool,Casa de Familia,El chorro,Y,1AMonth,bottled,Y,1,Frente a la casa,cementWorking,working,Puente,Yefripeña,18.90192289,-70.75990344
+Morales,Pinales, ,Male,lessThanprimary,Hornalero,El chorro,Y,1AWeek,tap,Y,1,Frente a la casa,cementWorking,working,Puente,Yefripeña,18.90195927,-70.75958502
+Carlos Miguel ,martes matias,7/12/84,Male,highschool,constructor,arroyo arriba,Y,2-3AWeek,bottled,Y,2,frente la casa,cementWorking,working,Puente,candiany,18.9143581,-70.7428573
+Eunises,Suero,3/16/73,Female,primary,Ama de casa,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489117,-70.6861695
+Robinson ,anazagatis ,12/20/75,Male,highschool,agricultor ,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementPoor,working,Puente,Jduran,18.90405,-70.7426854
+Esmeralda,Ramirez,12/30/77,Female,lessThanprimary,Empacadora,Las Flores,Y,1AWeek,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9149949,-70.7454522
+darihana,baez espinal,9/19/99,Female,highschool,Trabajadora social,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.910517,-70.7476588
+Nereida,Santos, ,Female,lessThanprimary,Ama de casa,El canal,Y,2-3AWeek,bottled,Y,1,La carretera ,cementPoor,working,Puente,Kiaraabreu,18.9092453,-70.7485947
+Estefani ,De lo Santos ,11/27/99,Female,someHighSchool,Estudiante ,El chorro,Y,2-3AWeek,tap,Y,,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90489012,-70.7579518
+Griseida,Amena,1/4/76,Female,lessThanprimary,Ama de casa,San isidro,Y,2-3AWeek,tap,Y,1,Al frente,cementPoor,poor,Puente,Y. Batista ,18.9165889,-70.7431207
+Reyes,Vargas,1/6/72,Male,lessThanprimary,Privado,San isidro,Y,2-3AWeek,bottled,N,1,Al frente,dirtPoor,poor,Puente,Y. Batista ,18.9165889,-70.7431207
+Julio,Baez,9/3/89,Male,someHighSchool,Agricultor,San Isidro,Y,4-6AWeek,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Y. Batista ,18.9163927,-70.7447825
+Anticamente ,Mendes ,4/18/70,Female,lessThanprimary,Ninguna ,El chorro,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementPoor,working,Puente,Kiara Abreu ,18.90312163,-70.75873626
+Mercedes,Garcia trinidad,9/22/81,Female,primary,Ama de casa,Santa rosa,Y,everyday,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Luis ,Serrata Ramirez,12/10/71,Male,highschool,Tecnico,Las flores,Y,everyday,bottled,Y,2,En laCalle,cementWorking,working,Puente,Aurelis,18.913108,-70.7449165
+Dora,Ferrera,1/1/18,Female,lessThanprimary,Ama de casa,El chorro,Y,1AWeek,tap,Y,,La calle,dirtWorking,working,Puente,Yefripeña,18.90196551,-70.75943456
+Ana divina,duran ,5/2/74,Female,lessThanprimary,ama de casa,santiago apostol,Y,4-6AWeek,bottled,Y,3,Basurero,cementWorking,working,Puente,Nayezca.A,18.9104665,-70.7476588
+Lissette,Guzman rosa,4/11/93,Female,highschool,Ama de casa ,Santa rosa ,Y,everyday,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Marlenis ,acosta rodriguez,7/3/99,Female,highschool,banquera,barrio santiago apostol,Y,4-6AWeek,bottled,Y,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.9110188,-70.7476045
+Angela ,De la cruz,1/6/94,Female,someHighSchool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Petra,Ramirez , ,Female,someHighSchool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9033629,-70.7200064
+Andrea,Brita,5/13/87,Female,primary,Negociante,La olla,Y,everyday,bottled,Y,1,Afuera,cementPoor,poor,Puente,D García,18.9053547,-70.7503979
+Ramona ,Ferrera ,5/9/43,Female,lessThanprimary,Ninguna ,El canal ,Y,4-6AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90666478,-70.76064189
+Jorge ,Ramirez,6/19/73,Male,someHighSchool,Agricultor,La kenedis,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.912537,-70.7226084
+Negra,Batista, ,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9120754,-70.7454486
+Olga,Diaz, ,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9114211,-70.7454007
+Darleny,Jimenez ramirez,2/9/87,Female,highschool,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9033629,-70.7200064
+Cristopher,Fernandez,12/28/97,Male,someHighSchool,Estudiante,La kenedid,Y,1AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9048316,-70.7270688
+Cenaida,null, ,Female,lessThanprimary,Ama de casa,Las flores,Y,1AWeek,bottled,Y,1,En lla calle,cementPoor,poor,Puente,Aurelis,18.91439699,-70.74574681
+Octaviano ,Sanches,3/10/40,Male,lessThanprimary,Agricultura,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9428647,-70.6785915
+Celeste,Gratereaux,11/11/74,Female,lessThanprimary,Agricultura,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90280085,-70.75840317
+Marcelina ,Soto Vargas ,8/3/78,Female,lessThanprimary,Domistico ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la calle ,cementWorking,working,Puente,Yefripeña,18.90558058,-70.75850098
+Ana Maria,Delgado,12/26/89,Female,highschool,Ama de casa,Las Flores,Y,1AWeek,tap,Y,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9149949,-70.7454522
+Jose ,lopez ,6/24/70,Male,someHighSchool,Asalariado publico ,la calle primera ,Y,1AMonth,bottled,null,2,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Clara ,Ramirez,5/18/77,Female,primary,null,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9035195,-70.7181479
+Beronica,Diaz,8/11/99,Female,highschool,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,En la entrada de comunidad,cementWorking,working,Puente,Esteff,18.9051864,-70.7505792
+Rosina,Delgado,7/10/93,Female,college,Ama de casa,La Jolla ,Y,everyday,bottled,Y,1,Afuera ,cementPoor,poor,Puente,D García,18.9051807,-70.7505916
+Juan,Lagares,3/5/52,Male,lessThanprimary,Amo de casa,La jolla,Y,everyday,bottled,Y,1,Fuera de la casa ,cementPoor,poor,Puente,D García,18.9073989,-70.745723
+mabel ,baez espinal,8/24/97,Female,highschool,banquera,barrio santiago apostol ,Y,4-6AWeek,bottled,Y,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.9105155,-70.7476606
+Ramon ,Candelario ,10/30/59,Male,highschool,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Chantal ,Monte de Oca ,11/13/74,Female,college,Banquera,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9105736,-70.7475964
+Paulina,Abreu,12/15/86,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,null,18-01,Candiany,18.9132486,-70.7226084
+Jose miguel,De lo santo ,1/1/98,Male,someHighSchool,Jornalero ,El chorro ,Y,4-6AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90503358,-70.75844449
+Carmen ,Rosario ,4/14/72,Female,lessThanprimary,Ninguna ,El chorro,Y,2-3AWeek,tap,Y,1,Frente a la casa,cementWorking,working,Puente,Yefripeña,18.90231122,-70.75930095
+Carlos,Espinal,11/6/89,Male,college,Eletricidad,Las Flores,Y,1AWeek,tap,Y,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9149949,-70.7454522
+Elsa,Ferrera,9/8/67,Female,lessThanprimary,Ama de casa,La Jolla,Y,2-3AWeek,bottled,Y,1,A dentro de la casa,cementWorking,working,Puente,Esteff,18.9051843,-70.750551
+Rodin,Garcia,7/21/98,Male,college,Estudiante,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9428672,-70.6786292
+enmanuel,quezada, ,Male,someHighSchool,null,la calle primera,Y,everyday,bottled,Y,,null,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Alturo Daniel, Ruemmeley cabrera,12/16/95,Male,college,Estudiante,Las flores,Y,everyday,bottled,Y,2,En la calle,null,null,Puente,Aurelis,18.9122126,-70.7443462
+Arturito,Ferrera, ,Male,lessThanprimary,Agricultor,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9073772,-70.7519738
+Juliana,Suriel valdez, ,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9429512,-70.6783544
+Hisidro ,De lo santos ferrera ,5/15/83,Male,lessThanprimary,Ninguna ,El chorro ,Y,1AWeek,tap,Y,1,Frente de la carretera ,cementPoor,poor,Puente,Yefripeña,18.9063702,-70.75892444
+Pedro ,Jimenez,2/7/72,Male,lessThanprimary,Trabajador ,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la cera,cementWorking,working,Puente,Jduran,18.9105921,-70.747598
+Felicia ,Abreu ureña,3/28/72,Female,primary,Agricultura,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9432158,-70.6853985
+Nappy,Roots,12/7/89,Female,lessThanprimary,Bad ass,Dont worry,Y,everyday,tap,N,3,Rio,dirtPoor,working,testORG,Test,33.63920773,-84.43587959
+Johan ,Vitoriano,8/6/88,Male,lessThanprimary,Jornalero ,El  chorro ,Y,4-6AWeek,tap,Y,1,Frente de a carretera ,cementWorking,working,Puente,Yefripeña,18.90504586,-70.75846888
+Nuri,Garcia pinales ,4/5/75,Female,lessThanprimary,Ama de casa ,El chorro,Y,4-6AWeek,bottled,Y,,Frente de la calle,dirtPoor,poor,Puente,Yefripeña,18.90337515,-70.75793071
+Oneida altagracia,Goris,4/7/86,Female,primary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427977,-70.6783175
+juan,duran , ,Male,primary,agricultor,arroyo arriba,Y,2-3AWeek,bottled,Y,2,frente a la casa,cementWorking,working,Puente,candiany,18.9151404,-70.74241
+Silvestre ,Peña, ,Female,lessThanprimary,Agricultura ,El chorro ,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9088406,-70.7478837
+antonia maria ,santos sanchez,10/7/71,Female,lessThanprimary,ama de casa,barrio santiago apostol,Y,4-6AWeek,tap,Y,2,En la calle,cementWorking,working,Puente,Nayezca.A,18.9104498,-70.7476646
+ambioris de jesus,null,11/13/64,Male,highschool,plomero,arroyo arriba,Y,2-3AWeek,bottled,Y,2,frente a la casa,cementWorking,working,Puente,candiany,18.9151571,-70.7423884
+gertrudiz ,soriano,11/17/57,Female,null,ama de casa,calle primera,Y,everyday,bottled,Y,1,en la acera,cementWorking,working,Puente,Nayezca.A,18.90489628,-70.74275227
+Sandra,Guzmn,9/7/95,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9117541,-70.7452061
+Saramon,Patiño,4/19/71,Male,lessThanprimary,null,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementPoor,working,Puente,Esteff,18.9051838,-70.7505807
+Antonio,De los santos,2/17/85,Male,someCollege,Compañia privada,Los peinados,Y,2-3AWeek,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9130815,-70.7459517
+Celia ,Quezada ,9/10/63,Female,someHighSchool,null,La calle primera ,Y,null,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Eustaquia,Santos cruz, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90590723,-70.7584346
+Domingo,Valdez,5/30/93,Male,lessThanprimary,Carnicero,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9096447,-70.7470401
+Nando,Delgado,11/17/94,Male,someHighSchool,null,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9051294,-70.7506422
+Yoenny ,Suriel,3/20/94,Female,lessThanprimary,Ama de casa ,Santa rosa,Y,everyday,tap,Y,1,Afuera,dirtPoor,poor,Puente,Rosa Elenny Duran Jimenez,18.9472111,-70.6812252
+Angel ,Lucas ,3/21/99,Male,highschool,null,Av mella,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037171,-70.7517754
+Octavio,Suriel,12/20/74,Male,college,Comerciante,Av. mella,Y,everyday,bottled,Y,1,Frente a la casa,cementWorking,working,Puente,Yefripeña,18.9037291,-70.7517756
+Joselin,Victoriano,4/19/96,Female,highschool,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,Frente de la casa,cementWorking,working,Puente,Esteff,18.9112028,-70.7459509
+Lusmila,Perez,2/2/86,Female,someHighSchool,Agricultura,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9113942,-70.7458498
+jeni,bautista,1/9/83,Female,highschool,ama de casa,santiago apostol,Y,4-6AWeek,bottled,Y,,null,cementWorking,poor,Puente,Nayezca.A,18.90999629,-70.74836198
+Anastacia,Ferrera, ,Female,someHighSchool,Ama de casa ,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9079951,-70.7518337
+felix,peralta,8/6/53,Male,lessThanprimary,null,santiago apostol,null,4-6AWeek,tap,Y,2,en la acera,cementWorking,poor,Puente,Nayezca.A,18.91005901,-70.74829513
+Norbit ,Rosado,6/5/98,Male,highschool,Estudiante,El chorro,Y,1AWeek,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90226296,-70.75893171
+Martina,Suriel,6/6/53,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,N,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9051836,-70.7505792
+Rubi,Rosado,1/25/99,Female,highschool,Estudiante,El chorro,Y,1AMonth,bottled,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.90194443,-70.75830502
+Juana ,Quezada,4/12/69,Female,highschool,Auxiliar de farmacia ,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9490541,-70.6863052
+Hipolito,Rodriguez,8/13/70,Male,highschool,Camionero,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9116652,-70.745259
+Jencarlos,batista,1/15/97,Male,someHighSchool,null,calle primera,Y,everyday,bottled,Y,1,Tanque de la basura ,cementWorking,working,Puente,Nayezca.A,18.9038781,-70.74286547
+Ana ,De los santos,4/20/99,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,Y,1,A fuera de la casa,cementPoor,poor,Puente,Esteff,18.9051726,-70.750569
+Violeta ,corsino ,6/11/57,Female,lessThanprimary,Ama de casa ,La calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementPoor,poor,Puente,Jduran,18.9008483,-70.7397066
+Josefina,De la rosa,3/9/67,Female,lessThanprimary,Aa de casa,Calle primera,Y,everyday,bottled,Y,1,En la calle,cementWorking,working,Puente,Nayezca.A,18.9034473,-70.7432999
+Nayely,De los santos,2/8/02,Female,someHighSchool,Estudios,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9049992,-70.7505998
+Cristian ,Disla,8/27/78,Male,college,Profesor,Barrio Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En la cera,cementWorking,working,Puente,Jduran,18.910573,-70.7476
+Wily,Frerrera,12/17/91,Male,highschool,Estudiante ,El canal,Y,2-3AWeek,bottled,Y,1,La calle ,cementWorking,working,Puente,Kiaraabreu,18.9100658,-70.7534842
+Manuela,Bonifacio Duran,1/22/56,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,bottled,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.9135025,-70.7451785
+Ana mercedes,Abreu,4/5/53,Female,lessThanprimary,null,La calle primera,Y,everyday,bottled,Y,2,En el tnq,cementWorking,working,Puente,Nayezca.A,18.4939337,-69.9239532
+Caturo,Dominguez,10/15/90,Male,primary,Jornalero,La kenedid,Y,2-3AWeek,tap,Y,2,Safacom,cementWorking,working,18-01,Candiany,18.9143824,-70.7220857
+Madelin,Rosado,12/7/96,Female,highschool,Ama de casa,Las flores,Y,everyday,bottled,Y,1,En la calle,cementWorking,working,Puente,Aurelis,18.9155708,-70.746037
+Ramona ,Santos Rosado,8/8/37,Female,lessThanprimary,Ama de casa,Las flores ,Y,everyday,tap,Y,2,En la calle,cementWorking,poor,Puente,Aurelis,18.9127553,-70.7451582
+Santa ,Paniagua,7/16/73,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9427959,-70.678321
+Maria ,Rosa ,6/6/86,Female,lessThanprimary,null,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90559379,-70.75849587
+Santos,Martes,9/5/81,Male,primary,Independiente,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementPoor,poor,Puente,Esteff,18.9051606,-70.750365
+Petra,Fernandez,2/21/75,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,null,Puente,Kiaraabreu,18.9093827,-70.7537393
+Luis Olmedo,Soriano ,5/21/77,Male,college,Construccion,Av mella,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037177,-70.7517742
+Sao antonio ,Infante Cabral ,3/4/66,Male,lessThanprimary,Trabajor en parcelas ,La Calle primera ,Y,null,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Patricia ,Germocen Lora ,7/1/69,Female,someHighSchool,Conserge en la Escula ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.910466,-70.747586
+Altagracia ,Rodriguez ,4/12/55,null,lessThanprimary,null,Santiago Apostor ,Y,4-6AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9100399,-70.7482014
+Maria,Ramirez,8/15/70,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,poor,Puente,Esteff,18.9029902,-70.7497422
+Andreudy,Medina,12/22/93,Male,highschool,Comerciante,Las Flores,Y,2-3AWeek,bottled,N,2,En la calle,cementWorking,working,Puente,Esteff,18.9133895,-70.7452199
+Iban Matias ,Quezada Ortiz ,9/20/77,Male,someHighSchool,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9063229,-70.7434892
+Nidia,Moreta,11/1/78,Female,primary,Centro diagnostico,Los peinados,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9117473,-70.7452145
+Delfa ,Suero,12/27/70,Female,lessThanprimary,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,working,18-01,Candiany,18.9033629,-70.7200064
+Danel,Pichardo,5/21/97,Female,someHighSchool,Banquera,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9116487,-70.744947
+Cenaida,Delgado,1/1/86,Female,someHighSchool,Ama de casa ,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Kiaraabreu,18.9104253,-70.7484093
+Paulina,Santos,2/14/42,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9070835,-70.7433876
+Eligia ,Corsino ,6/20/57,Female,lessThanprimary,Ama de casa ,La Calle primera ,Y,null,bottled,Y,1,En la cera ,null,working,Puente,Jduran,18.9008483,-70.7397066
+Merely ester,Alcantara sanches ,12/3/99,Female,highschool,Ama de casa y estudiante ,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.942786,-70.6783326
+Mabel,Concepcion,2/19/89,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,N,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9051836,-70.7505792
+Federico ,Rodriguez ,8/13/74,Male,someHighSchool,null,La calle primera ,Y,null,bottled,Y,,null,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Arelis,Castillo,2/3/66,Female,someHighSchool,Administradora,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9114211,-70.7454007
+Luciana,Soriano,12/4/01,Female,someHighSchool,Ama de casa,La Jolla,Y,everyday,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9051836,-70.7505792
+lina,abreu,5/25/80,Female,highschool,null,santiago apóstol,Y,4-6AWeek,tap,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91056717,-70.74763469
+Elena,Santos, ,Female,lessThanprimary,Ama de casa ,El chorro,Y,everyday,bottled,Y,1,La carretera,cementPoor,working,Puente,Kiaraabreu,18.9101214,-70.7450451
+Altagracia,Suriel, ,Female,primary,Modista,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.911438,-70.7453285
+Samil,Santos, ,Male,lessThanprimary,Estudiante,El chorro,Y,4-6AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.907975,-70.7527106
+Fernando,Ortiz,5/2/00,Male,highschool,null,La kenedid,Y,2-3AWeek,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9135036,-70.7224585
+celenny ,Rosa ,9/7/74,Female,college,Enfermera ,Santiago Apostor ,Y,4-6AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9106154,-70.7476207
+Marta roselia,Delgado,8/23/54,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9070835,-70.7433876
+Soleiny,Mena,6/12/85,Female,highschool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9132486,-70.7226084
+Raul,Vargas,12/2/98,Male,lessThanprimary,Limpieza,San Isidro,Y,2-3AWeek,tap,Y,1,Al frente,cementPoor,poor,Puente,Y. Batista ,18.9166187,-70.7451267
+Luisa ,Perez valdez,12/15/72,Female,highschool,Ama de casa ,Santa rosa,Y,Never,tap,Y,1,Fuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Franchesca,Collado,9/11/85,Female,someHighSchool,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9114168,-70.745243
+Yerolin ,De la cruz,5/24/91,Female,highschool,Ama de casa,La cale primera,Y,everyday,bottled,Y,2,En la ca,cementWorking,working,Puente,Nayezca.A,18.4939337,-69.9239532
+Samuel,Ramirez abreu,11/4/75,Male,null,null,null,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,poor,18-01,Candiany,18.9133891,-70.7224283
+Pedro,Pinales,1/28/50,Male,lessThanprimary,Envasador de vegetales,Las flores,Y,everyday,bottled,Y,2,Afuera,cementPoor,poor,Puente,Rosa,19.2964862,-70.2510637
+Erikson ,Pichardo vargas,3/30/93,Male,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,18-01,Candiany,18.9044758,-70.7270688
+Elizabeth,Victoriano,1/21/78,Female,college,Maestra,Las flores,Y,everyday,bottled,Y,0,En el rio,cementPoor,poor,Puente,Aurelis,18.9130719,-70.7456523
+Julia ,De los Santo ,5/6/70,Female,lessThanprimary,Ninguna,El chorro,Y,2-3AWeek,tap,Y,1,Frente de la casa ,cementWorking,working,Puente,Kiaraabreu,18.9076995,-70.7523605
+Magaly,Quezada,9/27/75,Female,lessThanprimary,Casa domestica,San isidro,Y,2-3AWeek,bottled,Y,1,Al frente,cementPoor,poor,Puente,Y. Batista ,18.9165889,-70.7431207
+Elpidio ,Santos, ,Male,lessThanprimary,Agricultor,El chorro,Y,4-6AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.907773,-70.7522149
+Yeni ,Alcantara,5/11/85,Female,college,Ama de casa y estudiante,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9490541,-70.6863052
+Yeuri ,De lacruz,10/28/99,Male,someHighSchool,Mecanico,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9143824,-70.7220857
+bernandina ,rodriguez,6/10/82,Female,highschool,ama de casa,santiago apostol ,Y,4-6AWeek,tap,Y,,null,cementWorking,working,Puente,Nayezca.A,18.9099666,-70.74810628
+Rosaura,Santos,5/6/99,Female,someHighSchool,Ama de casa ,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9077416,-70.752507
+Clara virgen,Delgado baez,9/6/81,Female,highschool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,En un tanque,cementWorking,working,18-01,Candiany,18.9133456,-70.7215394
+Nathali,Quezada,8/25/85,Female,highschool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9135891,-70.7223033
+Addy,Duran,3/10/00,Male,highschool,Estudiante,La kenedid,Y,1AWeek,bottled,Y,2,La calle,cementPoor,working,18-01,Candiany,18.9143824,-70.7220857
+Bellanira ,Victoriano,3/8/90,Female,highschool,Ama de casa,Las flores,Y,everyday,tap,Y,2,En la calle,cementPoor,poor,Puente,Rosa,18.9131912,-70.7458286
+Mireya,Victoriano,1/14/63,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,N,1,A lante de la casa,dirtPoor,working,Puente,Esteff,18.4938661,-69.9265588
+Maximo,Hernandez,1/1/76,Male,primary,Comerciante,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9116063,-70.7450334
+Valerio,Ramirez duran,3/22/91,Male,primary,null,La kenedid,Y,2-3AWeek,tap,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132885,-70.7229801
+modesta ,gonzales, ,Female,lessThanprimary,ama de casa,las flores,Y,everyday,tap,Y,2,Afuera,cementWorking,working,Puente,Rosa,18.9129849,-70.7446715
+Dirson,Ramirez, ,Male,lessThanprimary,null,La Jolla,Y,everyday,bottled,N,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9081311,-70.748435
+ramonita,de la cruz,8/13/30,Female,someHighSchool,,calle primera,Y,everyday,bottled,Y,2,No puede,cementWorking,working,Puente,Nayezca.A,18.90291749,-70.74287117
+Orquidia ,Alcanera ,2/4/97,Female,college,Estudiante ,El chorro,Y,2-3AWeek,bottled,Y,1,Frente de la carretera,cementWorking,working,Puente,Yefripeña,18.90389225,-70.75816438
+Mirian,Perez de la cruz,10/9/66,Female,lessThanprimary,ama de casa,Barrii Santiago Apostor,Y,1AWeek,bottled,Y,2,En la sera ,cementWorking,working,Puente,Jduran,18.9108992,-70.7475735
+Mariela ,Duran Rosario ,8/5/92,Female,highschool,Ninguna ,El chorro ,Y,Never,bottled,Y,,Al frente de la casa ,dirtWorking,working,Puente,Kiara Abreu ,18.90202439,-70.75934228
+susana,cosma rosario ,4/20/84,Female,null,null,santiago apostol,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.90990936,-70.74779601
+Mariela ,Rodriguez,7/7/90,Female,primary,Ama de casa ,El chorro ,Y,4-6AWeek,bottled,Y,1,En la calle ,cementWorking,working,Puente,Yefripeña,18.90493059,-70.74829924
+Julio,Matias,12/19/83,Male,someHighSchool,Agricultor,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9076771,-70.7524719
+Marcos ,Duran,4/25/84,Male,lessThanprimary,Agricultura,Villa ortaliza ,Y,2-3AWeek,tap,Y,1,Afuera ,cementWorking,poor,Puente,Rosa,18.9427898,-70.6783674
+Marino,Ramirez,2/7/94,Male,someHighSchool,Estudiante,Las Flores ,Y,everyday,bottled,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9133309,-70.7455129
+Franchesca ,Galan Duran ,6/10/76,Female,college,Ama de casa ,Santiago Apostor ,Y,everyday,bottled,Y,2,en la cera ,cementWorking,working,Puente,Nayezca.A,18.9104501,-70.7476781
+Mitalia,Duran,12/15/76,Female,college,Abogada,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9091566,-70.7475121
+Rafael,Pinales,9/22/52,Male,lessThanprimary,Agricultor,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9082764,-70.7527701
+Mercedes,Castillo,4/8/42,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,bottled,Y,2,Afuera,cementWorking,poor,Puente,Rosa,19.2964862,-70.2510637
+Edipo,Castillo,5/18/93,Male,college,Estudiante,Las flores,Y,4-6AWeek,bottled,Y,2,En la calle,cementWorking,poor,Puente,Aurelis,18.9130894,-70.7459807
+Pedro ,Cruz,10/9/57,Male,primary,Agricultor,La kenedid,Y,2-3AWeek,tap,Y,,La calle,cementPoor,poor,18-01,Candiany,18.9072867,-70.7418195
+Digna,Ramirez,5/3/48,Female,lessThanprimary,Ama de casa,La Jolla,Y,1AMonth,tap,Y,1,En la calle,cementPoor,poor,Puente,Esteff,18.4938661,-69.9265588
+elena,brioso,12/25/89,Female,college,fritura,santiago apostol ,Y,4-6AWeek,bottled,Y,2,en la cera,cementWorking,working,Puente,Nayezca.A,18.91125064,-70.74773072
+Maritza,Quezada,6/2/94,Female,primary,Ama de casa,San Isidro,Y,4-6AWeek,bottled,Y,2,A fuera de la casa,cementPoor,working,Puente,Y. Batista ,18.9160804,-70.7450458
+Juan Grabiel,Victoriano,2/8/98,Male,highschool,Pintor,Las Flores,Y,everyday,bottled,Y,2,En la Calle,cementWorking,working,Puente,Aurelis,18.9127169,-70.7445528
+Venancio,De los santos,6/16/75,Male,lessThanprimary,Militar,La Jolla,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9053717,-70.750376
+Gertrudis ,Gutierrez ,4/16/68,Female,someHighSchool,Conserje ,la calle primera ,Y,everyday,bottled,null,1,En la cera ,cementPoor,poor,Puente,Jduran,18.9008483,-70.7397066
+Carlina,Garcia perez,2/20/92,Female,highschool,Ama de casa y estudiante ,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,dirtPoor,poor,Puente,Rosa,18.9070835,-70.7433876
+Willy,Cuevas,9/24/95,Male,someHighSchool,null,Las Flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9117377,-70.7441513
+Maria,Delgado Gil, ,Female,lessThanprimary,Jornalera,El canal,Y,1AWeek,tap,Y,1,La carretera ,cementPoor,poor,Puente,Kiaraabreu,18.9088406,-70.7478837
+Juan ,perez,1/16/90,Male,someHighSchool,estudiante,la calle primera,Y,everyday,bottled,Y,,null,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Samira,Peres, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9088406,-70.7478837
+Milagros,Cruz,11/27/83,Female,lessThanprimary,Trabaja en la loma,La Jolla,Y,everyday,tap,Y,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9051836,-70.7505792
+Paulina,null,6/22/77,Female,college,Ama de casa,Las flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,poor,Puente,Aurelis,18.9130624,-70.7455401
+Miguelo,Cabral Anazagatis ,8/30/57,Male,lessThanprimary,null,La Calle Primera Monseñor Nouel ,Y,everyday,bottled,Y,1,En la cera ,null,working,Puente,Jduran,18.9039487,-70.7427909
+Siro,Veloz,6/5/71,Male,lessThanprimary,Ejercito nacional,Las Flores,Y,2-3AWeek,bottled,Y,3,En frente de la casa,cementPoor,working,Puente,Esteff,18.9135943,-70.7455814
+Silveria,De los santos,5/8/60,Female,lessThanprimary,Ama de casa,La Jolla,Y,2-3AWeek,tap,Y,1,Alante de la casa,cementPoor,poor,Puente,Esteff,18.9051689,-70.7505715
+Maria,Furcal,4/9/96,Female,college,Estudiante,Las flores,Y,1AWeek,bottled,Y,2,Cuando llega el camion ,cementPoor,poor,Puente,Aurelis,18.913018,-70.7450413
+maria bernarda,ureña,8/20/95,Female,lessThanprimary,Ama de casa,barrio santiago apostol,Y,4-6AWeek,bottled,Y,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.9101402,-70.7477942
+Alex,Delgado,9/3/98,Male,highschool,null,La kenedid,Y,2-3AWeek,bottled,Y,3,La calle,cementWorking,working,18-01,Candiany,18.9044758,-70.7270688
+Iris,Delgado,3/3/78,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.4962217,-69.9254421
+Margarita,Santos, ,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,tap,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9129802,-70.7446719
+Marina,Peralta,12/15/41,Female,lessThanprimary,Ama de casa,San Isidro,Y,4-6AWeek,tap,Y,1,A fuera de la casa,cementPoor,poor,Puente,Y. Batista ,18.9156324,-70.7451557
+Fransico ,Pinales ,12/28/97,Male,someHighSchool,Ninguna ,El chorro,Y,everyday,tap,Y,1,Frente de la casa ,cementPoor,poor,Puente,Kiaraabreu,18.9081151,-70.7528385
+Samira,Guerrero, ,Female,lessThanprimary,Ama de casa,El canal,Y,2-3AWeek,bottled,Y,1,La carretera ,cementPoor,working,Puente,Kiaraabreu,18.9088174,-70.7529054
+Lorencio,Oleibio,1/1/63,Male,lessThanprimary,Independiente,San isidro,Y,2-3AWeek,tap,Y,2,Cuando pasa,cementPoor,poor,Puente,Y. Batista ,18.9165784,-70.7431051
+Minader,Fernandez,5/22/92,Male,highschool,Mecanico,Los Peinados,Y,everyday,bottled,N,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.911743,-70.7452174
+Eustaquio,Rodriguez,9/28/73,Male,lessThanprimary,Construcciin,Los peinados,Y,everyday,bottled,Y,1,Afuera de la casa,cementWorking,working,Puente,Esteff,18.9112803,-70.7455465
+Rosanni,Lara mendez ,4/29/94,Female,lessThanprimary,Ninguno ,El chorro ,Y,4-6AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90493329,-70.75841373
+Sara ,Guzman de los Santos ,6/9/82,null,lessThanprimary,Ama de casa ,Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9102244,-70.7477658
+Carlos,Martes,2/17/95,Male,someHighSchool,null,La kenedid,Y,2-3AWeek,bottled,Y,2,En la calle,cementWorking,working,18-01,Candiany,18.9134254,-70.7224175
+Jesica ,De los Santo Victoriano ,9/9/94,Female,college,null,El chorrob,Y,2-3AWeek,bottled,Y,1,Frebte de la calle ,cementWorking,working,Puente,Yefripeña,18.9029965,-70.75153911
+Ivannia,Piña Pichardo,2/17/91,Female,highschool,Ama de Casa ,Barrio Santiago Apostot ,Y,everyday,bottled,N,2,En la cera,cementWorking,working,Puente,Jduran,18.9101467,-70.7478088
+Deiny,Garcia,2/23/02,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,En frente de la casa,cementPoor,working,Puente,Esteff,18.9113843,-70.7451892
+Santiago,Capellan,8/2/82,Male,someHighSchool,Estudiante,Arroyo arriba,Y,everyday,bottled,Y,2,Frente a la casa,cementWorking,null,18-01,Candiany,18.9136134,-70.7422362
+Bienvenido ,De los santos ,11/5/48,Male,lessThanprimary,En el ayuntamiento,Villa ortaliza,N,2-3AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9490541,-70.6863052
+Ramona,Garcia Santos,12/6/66,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,tap,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9127169,-70.7445528
+Yeni,batista,4/5/91,Female,highschool,Banquera ,Samtiago apostor,Y,2-3AWeek,bottled,Y,2,En la cera,cementWorking,working,Puente,Jduran,18.9127549,-70.7478837
+mayrenis,Duran ,9/23/72,Female,highschool,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Maria,Duran,6/4/79,Female,someHighSchool,Ama de casa y casas de familias,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9427157,-70.6784023
+Patricio,De los santos,12/18/84,null,lessThanprimary,Sereno,El chorro,Y,2-3AWeek,tap,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90633563,-70.75891388
+Ariel,Santos,4/5/57,Male,lessThanprimary,Sereno,El chorro,Y,4-6AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9020817,-70.7512289
+Carme,Cruz martinez,9/20/81,Female,primary,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,dirtPoor,poor,18-01,Candiany,18.9125283,-70.7217358
+Luz ,Rosa,1/3/54,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,N,1,Cerca del puente,cementWorking,working,Puente,Esteff,18.9051838,-70.7505807
+Maria ,santos ,4/29/79,Female,highschool,Trabaja en una tienda ,Santiago Apostor ,Y,2-3AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9108432,-70.7475562
+Lucía ,Ferrera, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La carretcarretera ,cementPoor,working,Puente,Kiaraabreu,18.9093827,-70.7537393
+Angela antonia,Martinez,1/15/54,Female,lessThanprimary,Ama de casa,La kenedid,Y,1AWeek,tap,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9142233,-70.7210171
+Antonia,Garcia,11/1/77,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9070835,-70.7433876
+Tiburcio,Espinal,12/9/77,Male,lessThanprimary,Pintor,Los Peinados,Y,everyday,bottled,Y,1,Mas abajo de su casa,cementWorking,working,Puente,Sujelisreynoso@gmail.com,18.9094856,-70.7476061
+Garivaldy ,Cabral Anazagatis ,10/27/67,Male,someHighSchool,Agronomo ,La Calle Primera Monseñor Nouel ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Romita ,Calderon,8/16/41,Female,lessThanprimary,Ama de casa,Las flores,Y,everyday,bottled,Y,2,Afuera,cementPoor,poor,Puente,Rosa,19.2964862,-70.2510637
+Josefina,Genao matias,10/30/75,Female,highschool,Suplente de conserje,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9427959,-70.678321
+Diosani,Victoriano,6/10/91,Female,highschool,Ama de casa,El chorro,Y,2-3AWeek,bottled,Y,1,La carretera,cementPoor,working,Puente,Yefripeña,18.9086031,-70.75992012
+Yubeliza ,Adames Estebez,3/12/92,Female,college,Empleada privada,Las flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,working,Puente,Aurelis,18.9126268,-70.7447887
+Maria argentina,Vargas,2/28/49,Female,primary,null,Arroyo arriba,Y,everyday,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9135943,-70.7421539
+Rosairis ,Delgado ,5/14/98,Female,lessThanprimary,null,El canal abandonado ,Y,everyday,tap,Y,1,La carretera,cementWorking,working,Puente,Yefripeña,18.9068636,-70.760273
+Crismaria,Adames,6/14/97,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,N,1,Fuera de casa,cementWorking,working,Puente,Esteff,18.905403,-70.7502671
+Ramiro ,null,6/11/60,Male,someHighSchool,Agronomo ,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.910214,-70.7482572
+Amarian ,Tiburcio,9/5/84,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9044758,-70.7270688
+Miguel ,Soriano peralta ,4/13/78,Male,college,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Kyle,Wish,12/11/04,Male,college,Doc,null,null,null,null,null,,null,null,null,testORG,Test,18.90792019,-70.73904349
+Santo ,Abreu ,1/2/75,Male,lessThanprimary,Agricultura ,El canal abandonado ,Y,2-3AWeek,bottled,Y,,Al final de la calle ,dirtWorking,working,Puente,Yefripeña,18.90863026,-70.75975156
+Danila,Baez, ,Female,lessThanprimary,Ama de casa,La Jolla,Y,2-3AWeek,bottled,Y,1,La llevan a un tanque ,cementPoor,working,Puente,D García,18.9051864,-70.7505792
+Antonieta,Cruz , ,Female,lessThanprimary,Ama de cass,El canal,Y,2-3AWeek,tap,Y,1,La carretera ,cementPoor,working,Puente,Kiaraabreu,18.9096405,-70.7539954
+Rosa,Jimenez,7/5/76,Female,highschool,Ama de casa ,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa Elenny Duran Jimenez,18.9488775,-70.6860342
+Altagracia,Paez delgado,5/2/46,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementPoor,poor,Puente,Rosa,18.9490541,-70.6863052
+Felipe,Abreu,6/6/54,Male,lessThanprimary,Comerciante,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9113515,-70.7449512
+Cladi ,Ferrera,10/20/63,Female,lessThanprimary,Ama de casa ,El chorro ,Y,1AWeek,tap,Y,,Frente de su casa ,dirtWorking,working,Puente,Kiara Abreu ,18.90312163,-70.75873626
+Juana maria,Loped trinida,3/24/74,Female,primary,Ama de casa,Las Flores,Y,everyday,bottled,Y,2,La calle,cementWorking,working,Puente,Aurelis,18.913127,-70.7459807
+Wily,Cruz,10/1/83,Male,primary,Hobrero,La kenedid,Y,2-3AWeek,tap,Y,2,La calle,cementPoor,poor,18-01,Candiany,18.9145346,-70.7210171
+Maria ,De la cruz rosado ,8/13/96,Female,lessThanprimary,Ninguna ,El canal ,Y,1AWeek,tap,Y,1,Frente de la carretera,cementWorking,working,Puente,Yefripeña,18.90588216,-70.76000378
+ramona cristina ,mateo,3/25/69,Female,someHighSchool,ama de casa,Calle primera,Y,everyday,bottled,Y,1,En la cer,cementWorking,working,Puente,Nayezca.A,18.90271732,-70.74296672
+Juaquin ,Perez ,5/12/53,Male,lessThanprimary,Jornalero ,El canal ,Y,2-3AWeek,tap,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90647971,-70.76052077
+Cruz maria,Vargas,5/3/71,Female,someHighSchool,Que haceres domesticos,Arroyo arriba,Y,everyday,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9136134,-70.7422362
+Clara,Ramirez,8/17/70,Female,highschool,null,La kenedid,Y,2-3AWeek,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.9143824,-70.7220857
+Marino ,Diaz ,4/16/73,Male,college,null,La calle peimera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9063229,-70.7434892
+Antonia,Santos,6/11/70,Female,lessThanprimary,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9048316,-70.7270688
+Angela ,Ramirez ,3/27/68,Female,lessThanprimary,Ama De Casa ,Santiago Apostor ,Y,4-6AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9100595,-70.7481575
+Alberto ,Cruz, ,Male,lessThanprimary,Agricultura,El chorro,Y,everyday,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.9078684,-70.7524567
+Nicolas,De los santos,1/7/69,Male,lessThanprimary,Constructor,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9114086,-70.7449362
+Cecilia,Diaz,11/22/64,Female,someHighSchool,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9113191,-70.7454396
+Victoria,Perez rodriguez,6/3/79,Female,highschool,Ama de casa ,La kenedid,Y,2-3AWeek,bottled,Y,2,Lacalle,cementWorking,working,18-01,Candiany,18.9125769,-70.7229801
+Magdalena ,Castillo,6/12/64,Female,someHighSchool,Comerciante,Av. Mella,Y,everyday,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9037186,-70.7517799
+Mercedes ,Duran ,9/4/60,Female,lessThanprimary,Ninguna ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la calle,cementWorking,working,Puente,Yefripeña,18.9049185,-70.7582305
+Fernanda ,Duran ,8/16/81,Female,lessThanprimary,Jornalero ,El canal ,Y,2-3AWeek,tap,Y,1,Frente de la carretera ,cementPoor,working,Puente,Yefripeña,18.90598157,-70.75984075
+Emilio ,Abreu ,8/10/75,Female,primary,null,El canal ,Y,2-3AWeek,tap,Y,1,Frente de la casa ,cementWorking,working,Puente,Yefripeña,18.90634577,-70.75960924
+Ramona,Rodriguez diaz,5/13/72,Female,lessThanprimary,Ama de casa,Villa ortaliza,Y,2-3AWeek,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9070835,-70.7433876
+Rosalia ,Cabral Anazagatis ,7/25/85,Female,college,null,La calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Nayezca.A,18.9043283,-70.7428219
+Griselda ,Delgado,1/21/69,Female,lessThanprimary,Conserje ,Villa ortaliza ,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.949007,-70.6862614
+Irma estela ,Lopez soriano ,10/13/70,Female,highschool,null,la calle primera ,Y,null,bottled,Y,1,Eb la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Yedelca ,Sanches,2/15/93,Female,highschool,Ama de casa,Villa ortaliza,Y,1AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9424279,-70.6784139
+Sofi,Lora, ,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9115791,-70.7452325
+Jose Alberto ,Jimenez Rosa ,10/12/98,Male,highschool,Herrero,Santiago Apostor,Y,4-6AWeek,tap,Y,2,Basurero,cementPoor,poor,Puente,Jduran,18.9107375,-70.7475433
+Maria,Rodriguez,2/14/39,Female,lessThanprimary,null,las Flores,Y,2-3AWeek,bottled,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9130683,-70.7455033
+Neli ,Hernandez,4/6/82,Female,college,Maestra,Santiago Apostor ,Y,everyday,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.9127549,-70.7478837
+Dignora,Aibaez,8/4/57,Female,lessThanprimary,Ama de casa,Las Flores,Y,1AWeek,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9149949,-70.7454522
+Reinardo,Victoriano Magarin,4/13/75,Male,highschool,Pintor,Las flores,Y,everyday,bottled,Y,2,ELa calle,cementPoor,working,Puente,Aurelis,18.91211459,-70.74453083
+Francia ,Duran ,12/10/80,Female,lessThanprimary,Ama de casa ,El canal abandonado ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,cementPoor,working,Puente,Yefripeña,18.90837926,-70.76001618
+Lusiano ,Garcia batista,12/17/61,Male,primary,Construcion,Santa rosa,Y,Never,tap,Y,1,Afuera,cementWorking,poor,Puente,Rosa Elenny Duran Jimenez,18.9489087,-70.6861588
+Yoselin ,Duran ,9/30/72,Female,someHighSchool,Ama de casa ,Calle Primera Monseñor Nouel ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+Petronila,Duran,1/1/18,Female,lessThanprimary,Agricultura,El chorro,Y,Never,tap,Y,1,La carretera,cementPoor,poor,Puente,Yefripeña,18.90761307,-70.76012665
+Cheila,Hernandez,4/18/91,Female,highschool,Vendedora,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9114211,-70.7454007
+Yaquelin,Castllo,5/17/79,Female,highschool,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9125363,-70.7217459
+Yule,Delgado ,6/12/80,Female,lessThanprimary,Ninguna ,El canal ,Y,1AWeek,tap,Y,1,Frente de la ,cementWorking,working,Puente,Yefripeña,18.90590421,-70.75982055
+Julio,Rosado santo,9/16/89,Male,lessThanprimary,Albañir,La kenedis,Y,2-3AWeek,bottled,null,2,Calle,cementPoor,working,18-01,Candiany,18.9033629,-70.7200064
+Arelis,Bueno, ,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9112493,-70.7453376
+Maria ,De la rosa ,1/1/18,Female,college,Niñera ,El chorro ,Y,2-3AWeek,bottled,Y,,Frente ,null,null,Puente,Yefripeña,18.90161381,-70.75895696
+Natalia,Tineo,3/18/95,Female,lessThanprimary,Ama de casa,San Isidro,Y,4-6AWeek,bottled,Y,1,A fuera de la casa,cementPoor,working,Puente,Y. Batista ,18.9163681,-70.7451116
+favia,pichardo,11/1/77,Female,primary,ama de casa,arroyo arriba,Y,2-3AWeek,bottled,Y,2,frente a la casa,cementWorking,working,Puente,candiany,18.9145125,-70.7430261
+Jose O.,Perez Hernadez,5/28/01,Male,highschool,Estudiante,Los Laureles,Y,2-3AWeek,bottled,Y,2,En la calzada ,cementWorking,working,Puente,Nayezca.A,18.9018002,-70.7490264
+Jesus roberto,Garcia perez,5/17/57,Male,highschool,Imbernaderos ,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,poor,Puente,Rosa,18.9428618,-70.678623
+Rosanna,Matias, ,Female,someHighSchool,null,El chorro,Y,2-3AWeek,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.9020022,-70.7504855
+Maria isabel,null,8/22/75,Female,someCollege,null,Ensanche bermudez ,Y,everyday,tap,Y,,En la calle ,dirtPoor,poor,Puente,Scoppa,19.47315396,-70.71800659
+Herminia ,de la cruz ramirez,8/11/72,Female,college,maestra,calle primera,Y,everyday,bottled,Y,2,En la acera,cementWorking,working,Puente,Nayezca.A,18.90261485,-70.7428289
+Candida,De los santos,10/1/60,Female,lessThanprimary,Casa de familia,Las Flores,Y,1AWeek,tap,N,1,A fuera de la casa,cementPoor,working,Puente,Esteff,18.9148873,-70.7457303
+Fidelia ,De lo santo ,8/4/67,Female,lessThanprimary,Jornalero ,El chorro ,Y,2-3AWeek,tap,Y,1,Frente de la carretera,dirtWorking,poor,Puente,Yefripeña,18.90615487,-70.75954864
+Valentina ,Vitoriano,2/14/95,Female,someHighSchool,null,El canal abandonado ,Y,2-3AWeek,bottled,Y,,Frente de la casa ,dirtWorking,working,Puente,Yefripeña,18.90820391,-70.75989028
+Mary,Castillo ,4/8/74,Female,someHighSchool,Estilista ,Santiago Apostor,Y,4-6AWeek,bottled,Y,3,En el camion ,cementWorking,working,Puente,Jduran,18.9109359,-70.7475121
+Tania ,De los Santos, ,Female,lessThanprimary,Ama de casa,El chorro,Y,2-3AWeek,tap,Y,1,La calle ,dirtWorking,working,Puente,Kiaraabreu,18.9125493,-70.7570118
+Juana ,Delgado ,12/5/88,Female,lessThanprimary,Invernadero ,El canal abandonado ,Y,2-3AWeek,tap,Y,,Al final de la calle ,dirtWorking,working,Puente,Yefripeña,18.90863026,-70.75975156
+Nicolas ,Rosado , ,Male,primary,Jornalero ,El canal ,Y,2-3AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90617666,-70.75972826
+Gertrudis ,Aquino,10/4/84,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Yordi miguel ,Nuñez Jimenez,10/19/00,Male,someHighSchool,Estudiante y Modelo,Santiago Apostor,Y,4-6AWeek,bottled,Y,2,En el camion de la basura,cementWorking,working,Puente,Jduran,18.9109359,-70.7475121
+Confesor,Rodriguez,10/21/73,Male,lessThanprimary,null,Las flores,Y,everyday,tap,Y,2,En la Calle,dirtPoor,poor,Puente,Aurelis,18.912465,-70.7455642
+Felix,Zalzuela,10/30/73,Male,someHighSchool,Comerciante,Las flores,Y,everyday,tap,Y,2,En la calle,cementPoor,poor,Puente,Aurelis,18.9127891,-70.7457424
+Raquel,Vallejo, ,Female,lessThanprimary,Ama de casa ,El chorro ,Y,2-3AWeek,tap,Y,,La calle,null,null,Puente,Kiaraabreu,18.9088173,-70.7533613
+Francisco antonio,Candelario,8/4/85,Male,someHighSchool,Agricultor ,La kenedid,Y,2-3AWeek,bottled,Y,3,La calle,cementPoor,working,18-01,Candiany,18.9132486,-70.7226084
+Gina,Suriel,1/1/53,Female,primary,Ama de casa,El chorro,Y,1AMonth,bottled,Y,1,La calle,cementWorking,working,Puente,Yefripeña,18.90205486,-70.75862931
+Clara ,abreu ,12/20/67,null,highschool,Ama De Casa ,Santiago Apostor ,Y,2-3AWeek,bottled,Y,2,En la cera ,cementWorking,working,Puente,Jduran,18.910687,-70.7476003
+Tucen ,Ramirez ,1/11/88,Male,someHighSchool,pintor ,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementPoor,poor,Puente,Nayezca.A,18.9044085,-70.7427263
+Santos ,Suriel,5/14/81,Male,highschool,Ninguna ,Villa ortaliza,Y,1AWeek,tap,Y,1,Afuera,cementWorking,working,Puente,Rosa,18.9070835,-70.7433876
+Daniela ,diaz mateo ,5/5/90,Female,college,secretaria ,la calle primera ,Y,everyday,bottled,Y,3,En la cera ,cementPoor,working,Puente,Jduran,18.9008483,-70.7397066
+Magali ,Diaz ,5/4/88,Female,lessThanprimary,Ama de casa ,El canal abandonado ,Y,2-3AWeek,bottled,Y,,Al final de la calle ,dirtWorking,working,Puente,Yefripeña,18.90872133,-70.76003546
+Lidia,Abreu,3/27/60,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,Y,1,Al lado de la casa,cementPoor,poor,Puente,Esteff,18.9051864,-70.7505792
+Jose Julian,Perez Rosado,7/28/85,Male,college,Sub Gerente del Banco Reservas ,Los Laureles ,Y,2-3AWeek,bottled,Y,2,En la calzada frente a la casa,cementWorking,working,Puente,Nayezca.A,18.9018002,-70.7490264
+Enger,Rey,1/16/99,Male,highschool,Ninguna,Los Laureles,Y,2-3AWeek,bottled,Y,2,En la calzada,cementWorking,working,Puente,Nayezca.A,18.9018002,-70.7490264
+Amelia,null,2/12/70,Female,null,Ama de casa ,La cañada de la palma/El chorro,Y,1AMonth,bottled,Y,,La calle,cementWorking,working,Puente,Yefripeña,18.90310859,-70.76388091
+Francisca,Plascencia,8/14/51,Female,lessThanprimary,Ama de casa,Las Flores,Y,1AWeek,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.91521,-70.7455009
+Toñi ,Perez ,7/9/75,Male,primary,Jornalero ,El canal ,Y,2-3AWeek,tap,Y,1,Frente de la carretera ,cementWorking,working,Puente,Yefripeña,18.90622905,-70.75975081
+Patricia,Ortiz,3/15/01,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9051836,-70.7505792
+Daniela,Ortiz,6/11/94,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,tap,Y,1,En el patio,cementPoor,working,Puente,Esteff,18.9051988,-70.7504894
+Inginio ,Quezada,1/11/68,Male,primary,Jornalero,Las flores,Y,everyday,tap,Y,2,En la calle,cementPoor,working,Puente,Aurelis,18.9129854,-70.7446718
+Yolanda,Delgado,1/1/94,Female,college,Licenciada,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9051838,-70.7505807
+Mercedes,Santos,9/24/85,Female,lessThanprimary,Ama de casa,La Jolla,Y,everyday,bottled,Y,1,En frente de la casa,cementWorking,working,Puente,Esteff,18.9087676,-70.7477854
+Elizabeth,Rosario,4/16/99,Female,highschool,Casa de familia,El chorro,Y,everyday,bottled,Y,1,La calle,cementPoor,working,Puente,Kiaraabreu,18.90838,-70.7529806
+Wendy,Reyes,12/20/99,Female,highschool,Ama de casa,Las flores,Y,everyday,bottled,Y,1,En la calle,cementWorking,poor,Puente,Aurelis,18.9149758,-70.7454903
+Yoselin,De los santos, ,Female,lessThanprimary,Casa de Familia,El chorro,Y,Never,bottled,Y,1,La calle,dirtWorking,working,Puente,Yefripeña,18.90258577,-70.75876191
+Yonntan,Nuñez,2/10/98,Male,highschool,Barbero,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132885,-70.7229801
+mercedes ,Rodriguez pinales ,8/15/77,Female,someHighSchool,null,la calle primera ,Y,everyday,bottled,Y,1,En la cera ,cementWorking,working,Puente,Jduran,18.9008483,-70.7397066
+lucia ,Martes cabrera ,12/31/82,Female,highschool,null,la calle primera ,Y,everyday,bottled,Y,1,En la  cera ,cementWorking,working,Puente,Jduran,18.9042816,-70.7428542
+jhonny,duran,12/4/71,Male,someHighSchool,pastor,santiago apóstol,Y,4-6AWeek,bottled,Y,2,en la acera,cementWorking,working,Puente,Nayezca.A,18.91098591,-70.74757021
+Joel ,peralta de la cruz,7/20/93,Male,college,estudiante,calle primera ,Y,everyday,bottled,Y,2,En el tanque,cementWorking,working,Puente,Nayezca.A,18.9025273,-70.7428228
+Heidy ,Gratereaux abreu,7/21/98,Female,college,Maestra,Calle primera,Y,everyday,bottled,Y,2,En la clle,cementWorking,working,Puente,Nayezca.A,18.9037003,-70.743125
+Favia,Pichardo,2/19/76,Female,lessThanprimary,Ama de casa,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,null,working,18-01,Candiany,18.9135691,-70.7223372
+Jose,Alcantara batista ,8/11/49,Male,lessThanprimary,Agricultura,Villa ortaliza,Y,2-3AWeek,bottled,Y,1,Afuera,cementWorking,working,Puente,Rosa,19.2224705,-70.5196565
+Roberto ,Arias taveras, ,Male,lessThanprimary,Jornalero,El canal,Y,2-3AWeek,tap,Y,1,La carretera ,cementWorking,working,Puente,Kiaraabreu,18.9108354,-70.7552405
+Scopp,Coppa,6/5/92,Male,college,Tirador de miersa,Santiago apostol,null,null,null,null,,null,null,null,testORG,Test,18.90797844,-70.73899111
+Santa teresa,Canario Bonifacio,10/28/81,Female,someHighSchool,Empleada privada,Las flores,Y,everyday,bottled,Y,2,En la calle,cementWorking,poor,Puente,Aurelis,18.9149939,-70.7455016
+maritza ,peralta nicudemo ,12/22/77,Female,lessThanprimary,Conserje ,La calle primera ,Y,everyday,bottled,Y,,en la cera ,cementPoor,working,Puente,Jduran,18.9043547,-70.7426796
+milagro ,encarnacion ,8/19/65,Female,null,ama de casa,Santiago apostol,Y,4-6AWeek,bottled,Y,,null,cementWorking,working,Puente,Nayezca.A,18.90998733,-70.74809834
+Francisca,Duran,12/7/73,Female,lessThanprimary,Ama de casa,Los peinados,Y,everyday,bottled,Y,1,A fuera de la casa,cementWorking,working,Puente,Esteff,18.9111639,-70.7451451
+Benjamin,Ozuna,3/16/36,Male,lessThanprimary,null,Arroyo arriba,Y,everyday,bottled,Y,2,Frente a la casa,cementWorking,working,18-01,Candiany,18.913587,-70.7421193
+Yosira,Rosado, ,null,someHighSchool,null,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementWorking,working,18-01,Candiany,18.9132486,-70.7226084
+Sergio,Santo ,10/29/89,Male,lessThanprimary,null,El canal abandonado ,Y,2-3AWeek,bottled,Y,,Al final de la calle ,dirtWorking,working,Puente,Yefripeña,18.90872133,-70.76003546
+Ana mary,marine,11/19/65,Female,college,maestra,arroyo arriba,Y,2-3AWeek,bottled,Y,2,frente a la casa,cementWorking,working,Puente,candiany,18.9159676,-70.7421721
+Sarina,Morillo ,1/1/18,Female,primary,Ama de casa,El chorro,Y,1AMonth,tap,Y,1,La carretera,cementWorking,poor,Puente,Yefripeña,18.90760729,-70.76008558
+Jorge,Mejia, ,Male,lessThanprimary,Jornalero,El canal,Y,2-3AWeek,tap,Y,1,La carretera ,cementPoor,working,Puente,Kiaraabreu,18.9077677,-70.7522622
+Milderd maria,Ramirez,11/7/94,Female,college,Estudiante,La kenedid,Y,2-3AWeek,bottled,Y,2,La calle,cementPoor,working,18-01,Candiany,18.9132486,-70.7226084
