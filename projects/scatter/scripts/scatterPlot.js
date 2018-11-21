@@ -4,7 +4,7 @@ d3.csv("data/puente.csv", function(data) {
     // Convert strings to numbers.
     // parse the date / time
     var parseTime = d3.timeParse("%m/%d/%y");
-    data.forEach(function(error,d) {
+    data.forEach(function(d) {
         //if (error) throw error;
         //if(error){
             //console.log(error);
@@ -21,6 +21,7 @@ d3.csv("data/puente.csv", function(data) {
         //else{
             d.trashPickUpFrequency = +d.trashPickUpFrequency;
             d.dob = parseTime(d.dob);
+            //d.dob = new Date(d.dob);
         //}
        
 
