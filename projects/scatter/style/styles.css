@@ -54,14 +54,6 @@ circle.reference.selected {
     stroke-width: 0;
 }
 
-line.link {
-    stroke-width: 0;
-}
-
-line.link.show {
-    stroke-width: 0.4;
-}
-
 #tooltip {
     position: absolute;
     width: 200px;
@@ -89,33 +81,3 @@ line.link.show {
     line-height: 20px;
 }
 
-
-.fr {
-    fill: #c83d32
-}
-.da {
-    fill: #62a1a9
-}
-
-.it{
-    fill: #99af5d
-
-}
-
-.la{
-    fill: #e6b740
-
-}
-
-.de{
-    fill: #2b595a
-
-/*https://www.color-hex.com/color-palette/67502*/
-
-}
-
-.en{
-    fill: pink
-
-
-}
