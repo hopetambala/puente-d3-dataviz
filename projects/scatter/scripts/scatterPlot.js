@@ -3,26 +3,17 @@
 d3.csv("data/puente.csv", function(data) {
     // Convert strings to numbers.
     // parse the date / time
-    var parseTime = d3.timeParse("%-m/%-d/%-y");
+    //var parseTime = d3.timeParse("%m/%d/%y");
     data.forEach(function(d) {
         //if (error) throw error;
         //if(error){
             //console.log(error);
         //}
-        /*
-        if (d.trashPickUpFrequency == 'null'|| d.trashPickUpFrequency == ''){
-            d.trashPickUpFrequency = 0;
-        }*/
-        /*
-        if(d.dob =''){
-            d.dob = parseTime("2018-1-1")
-        }*/
-
-        //else{
-            d.trashPickUpFrequency = +d.trashPickUpFrequency;
-            d.dob = parseTime(d.dob);
-            //d.dob = new Date(d.dob);
-        //}
+        
+        d.trashPickUpFrequency = +d.trashPickUpFrequency;
+        //d.dob = parseTime(d.dob);
+        d.dob = new Date(d.dob);
+        
        
 
     });
@@ -48,7 +39,7 @@ d3.csv("data/puente.csv", function(data) {
     var y = d3.scaleLinear().range([height, 0]);
 
     // Scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.dob; }));
+    x.domain([new Date('8/20/1940'),new Date('8/20/2018')]);
     y.domain([0, d3.max(data, function(d) { return d.trashPickUpFrequency; })]);
 
     // Define the div for the tooltip
@@ -61,7 +52,7 @@ d3.csv("data/puente.csv", function(data) {
         .data(data)
         .enter().append("circle")
             .attr("r", 5)
-            .attr("cx", function(d) { return x(d.dob); })
+            .attr("cx", function(d) { return x(new Date(d.dob)); })
             .attr("cy", function(d) { return y(d.trashPickUpFrequency); })
             .on("mouseover", function(d) {
                 div.transition()
@@ -84,8 +75,8 @@ d3.csv("data/puente.csv", function(data) {
     svgMain.append("g")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(x)
+        //.tickFormat(d3.timeFormat("%m/%d/%y")) //<== insert the tickFormat function
         .tickFormat(d3.timeFormat("%m/%d/%y")) //<== insert the tickFormat function
-        //.tickFormat(d3.timeFormat("%A %d %B %Y")) //<== insert the tickFormat function
         )
                 //.ticks(d3.timeYear.every(1)));
 
